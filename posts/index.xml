@@ -36,6 +36,7 @@
 </blockquote>
 <p>事实上，“<em>commitment</em>” 是一个通过哈希函数运算的一个值，发送者交给接收者。之后发送者再公开运算 “<em>commitment</em>” 的密数和致盲因子，由接收者验证哈希值是否匹配。</p>
 <p>那么，<em>“commitment”</em> 这里就有两个含义，一个是密数，一个是不能更改的承诺。“密”是名词，“秘” 是形容词，所以取“秘”。“诺”即表示“承诺”。因此将 “<em>commitment</em>” 翻译为“<strong>秘诺</strong>”，简洁明了，传达其在密码学中的含义。</p>
+<p>《秘诺切换简介》一文，阅读请点击<a href="https://github.com/Funkyswing/grin/blob/master/doc/switch_commitment_ZH-CN.md">这里</a>。</p>
 <hr>
 <p><strong>参考：</strong></p>
 <ol>
