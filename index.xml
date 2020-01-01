@@ -7,28 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 02:27:12 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 18:42:12 +0800</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>密码学中 “Commitment” 的翻译</title>
+      <title>About Me</title>
+      <link>https://funkyswing.github.io/about-me/</link>
+      <pubDate>Wed, 01 Jan 2020 18:42:12 +0800</pubDate>
+      
+      <guid>https://funkyswing.github.io/about-me/</guid>
+      <description>I am a translator from English to Chinese with more than ten years of experience. I am specialized in the fields of finance, IT and marketing.
+I am also a crypto enthusiast since 2013. I have taken part in the translation of technical documents of Grin, a crypto focused on financial privacy and based on weight-light and scalable Mimblewimble protocol.
+Values As a fan of opensource, I believe in a free and open internet.</description>
+    </item>
+    
+    <item>
+      <title>为何 “Commitment” 称为“秘诺”</title>
       <link>https://funkyswing.github.io/posts/commitment_english-translation/</link>
       <pubDate>Wed, 01 Jan 2020 02:27:12 +0800</pubDate>
       
       <guid>https://funkyswing.github.io/posts/commitment_english-translation/</guid>
       <description>前几天在翻译 Grin 的文档 Introduction to Switch Commitments 中出现 “Commitment Scheme”。“Commitment Scheme” 一般直接翻译为“承诺方案”。首先来看维基百科对这个词的解释。
  A way to visualize a commitment scheme is to think of a sender as putting a message in a locked box, and giving the box to a receiver. The message in the box is hidden from the receiver, who cannot open the lock themselves. Since the receiver has the box, the message inside cannot be changed—merely revealed if the sender chooses to give them the key at some later time.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://funkyswing.github.io/about-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/about-me/</guid>
-      <description>About Me Update soon</description>
     </item>
     
   </channel>
