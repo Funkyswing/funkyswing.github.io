@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://funkyswing.github.io/about-me/</loc>
-    <lastmod>2020-01-01T18:42:12+08:00</lastmod>
+    <loc>https://funkyswing.github.io/tags/crypto/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://funkyswing.github.io/posts/1-05-2020_grin4bitcoiners_zh-cn/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://funkyswing.github.io/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://funkyswing.github.io/posts/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://funkyswing.github.io/tags/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://funkyswing.github.io/tags/translation/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://funkyswing.github.io/posts/1-05-2020_switch_commitment_zh-cn/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://funkyswing.github.io/about-me/</loc>
     <lastmod>2020-01-01T18:42:12+08:00</lastmod>
   </url>
   
@@ -18,22 +53,7 @@
   </url>
   
   <url>
-    <loc>https://funkyswing.github.io/posts/</loc>
-    <lastmod>2020-01-01T02:27:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://funkyswing.github.io/tags/</loc>
-    <lastmod>2020-01-01T02:27:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://funkyswing.github.io/tags/trnaslation/</loc>
-    <lastmod>2020-01-01T02:27:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://funkyswing.github.io/posts/commitment_english-translation/</loc>
+    <loc>https://funkyswing.github.io/posts/1-1-2020_commitment_english-translation/</loc>
     <lastmod>2020-01-01T02:27:12+08:00</lastmod>
   </url>
   

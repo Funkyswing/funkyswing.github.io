@@ -6,15 +6,191 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Wed, 01 Jan 2020 02:27:12 +0800</lastBuildDate>
+		<lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://funkyswing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>Grin/Mimblewimble 较比特币之优势</title>
+			<link>https://funkyswing.github.io/posts/1-05-2020_grin4bitcoiners_zh-cn/</link>
+			<pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://funkyswing.github.io/posts/1-05-2020_grin4bitcoiners_zh-cn/</guid>
+			<description>Grin/Mimblewimble 致比特币持有者  阅读其他语言版本：Korean、 English  隐私和可互换性 Grin 链上交易有三个隐私特性：
+ 没有交易地址； 没有交易金额； 两笔交易，一笔输入是另一笔输出，可以在一个区块中混合成为一笔交易，清除所有中间信息。  前两个特性意味着所有交易不可识别。只要直接进行交易，所有输入、输出数据都显示为随机数（专业术语就是“随机曲线点”）。
+另外，单个区块中可以添加更多交易。Grin 区块内数据就像是一笔大交易，原始交易所有输入和输出数据都被删除。
+扩展性 如上所述，由于 Mimblewimble 交易和区块格式，交易可以合并，一笔输出可以从另一笔的输入直接花费。例如，甲给乙转账，乙之后转账给丙。这一系列交易中可以去除乙的数据，乙的交易数据绝对不会在链上显示。
+详细来说，区块间多数交易输出迟早都会变成另笔交易的输入。因此，所有输出花费都可以安全删除。而且假设 Grin 交易量与比特币相当，仅需几个 GB 或更少容量即可存储、下载和验证完整区块。
+这就意味着 Grin 区块链可扩展用户数量，而不是交易数量。目前有个问题是：每笔交易需要保留小量数据（“内核”，大约 100 字节）。但开发团队在努力优化。
+脚本 或许你听说过 Mimblewimble 协议不支持脚本 (Script)。某种程度上这是事实。但利用密码学方法，许多需要脚本的比特币合约在 Grin 上可以使用椭圆曲线密码学 (Elliptic Curve Cryptography) 实现。迄今为止已知的方法有：
+ 多签交易 原子交换 时间锁定交易和输出 闪电网络  发行率 比特币出块时间为 10 分钟，初始每个块奖励 50 btc，每四年减半，直到 2100 万比特币全部挖出。Grin 的货币发行率为线性增长，也就是说不会降低。目前为每 60 秒出块，每个区块奖励 60 Grin。这种发行方也有效，因为 1）稀释率逐渐为零；2）每年丢失或销毁的币数量也不小。
+常见问答集 什么？没有地址？ 没有地址。Grin 交易中所有输出是单独数据，与之前的输出不共享数据。不用已知地址发送货币，取而代之的是交互式交易，两个（或更多）钱包间彼此交换数据。这种交互方式不需要双方保持同时在线。实际上，有很多方式可以在两个程序间私密安全地进行交互。也可以使用电子邮件或 Signal（或“信鸽”）来进行此种交互通讯。
+如果删除交易信息，是不是就能欺骗并造新币？ 不可以，这就是 Mimblewimble 协议和 Grin 的出众之处。机密交易是一种同态加密形式。Grin 不用公开交易金额，即可验证交易输入总额等于交易输出与交易费总和。也就是说，比较挖矿产生的货币总量与现有货币总量，Grin 节点来检查货币总量是否准确。</description>
+			<content type="html"><![CDATA[<h1 id="grinmimblewimble-">Grin/Mimblewimble 致比特币持有者</h1>
+<ul>
+<li>阅读其他语言版本：<a href="grin4bitcoiners_KR.md">Korean</a>、 <a href="grin4bitcoiners.md">English</a></li>
+</ul>
+<h2 id="heading">隐私和可互换性</h2>
+<p>Grin 链上交易有三个隐私特性：</p>
+<ol>
+<li>没有交易地址；</li>
+<li>没有交易金额；</li>
+<li>两笔交易，一笔输入是另一笔输出，可以在一个区块中混合成为一笔交易，清除所有中间信息。</li>
+</ol>
+<p>前两个特性意味着所有交易不可识别。只要直接进行交易，所有输入、输出数据都显示为随机数（专业术语就是“随机曲线点”）。</p>
+<p>另外，单个区块中可以添加更多交易。Grin 区块内数据就像是一笔大交易，原始交易所有输入和输出数据都被删除。</p>
+<h2 id="heading-1">扩展性</h2>
+<p>如上所述，由于 Mimblewimble 交易和区块格式，交易可以合并，一笔输出可以从另一笔的输入直接花费。例如，甲给乙转账，乙之后转账给丙。这一系列交易中可以去除乙的数据，乙的交易数据绝对不会在链上显示。</p>
+<p>详细来说，区块间多数交易输出迟早都会变成另笔交易的输入。因此，<em>所有输出花费都可以安全删除</em>。而且假设 Grin 交易量与比特币相当，仅需几个 GB 或更少容量即可存储、下载和验证完整区块。</p>
+<p>这就意味着 Grin 区块链可扩展用户数量，而不是交易数量。目前有个问题是：每笔交易需要保留小量数据（“内核”，大约 100 字节）。但开发团队在努力优化。</p>
+<h2 id="heading-2">脚本</h2>
+<p>或许你听说过 Mimblewimble 协议不支持脚本 (Script)。某种程度上这是事实。但利用密码学方法，许多需要脚本的比特币合约在 Grin 上可以使用椭圆曲线密码学 (Elliptic Curve Cryptography) 实现。迄今为止已知的方法有：</p>
+<ul>
+<li>多签交易</li>
+<li>原子交换</li>
+<li>时间锁定交易和输出</li>
+<li>闪电网络</li>
+</ul>
+<h2 id="heading-3">发行率</h2>
+<p>比特币出块时间为 10 分钟，初始每个块奖励 50 btc，每四年减半，直到 2100 万比特币全部挖出。Grin 的货币发行率为线性增长，也就是说不会降低。目前为每 60 秒出块，每个区块奖励 60 Grin。这种发行方也有效，因为 1）稀释率逐渐为零；2）每年丢失或销毁的币数量也不小。</p>
+<h2 id="heading-4">常见问答集</h2>
+<h3 id="heading-5">什么？没有地址？</h3>
+<p>没有地址。Grin 交易中所有输出是单独数据，与之前的输出不共享数据。不用已知地址发送货币，取而代之的是交互式交易，两个（或更多）钱包间彼此交换数据。这种交互方式不需要双方保持同时在线。实际上，有很多方式可以在两个程序间私密安全地进行交互。也可以使用电子邮件或 Signal（或“信鸽”）来进行此种交互通讯。</p>
+<h3 id="heading-6">如果删除交易信息，是不是就能欺骗并造新币？</h3>
+<p>不可以，这就是 Mimblewimble 协议和 Grin 的出众之处。机密交易是一种<a href="https://en.wikipedia.org/wiki/Homomorphic_encryption">同态加密</a>形式。Grin 不用公开交易金额，即可验证交易输入总额等于交易输出与交易费总和。也就是说，比较挖矿产生的货币总量与现有货币总量，Grin 节点来检查货币总量是否准确。</p>
+<h3 id="heading-7">如果监听交易中继，我是不是就能在交易核销前分析出持币人信息？</h3>
+<p>你可以分析出哪笔交易的输出花费，但也仅限这么多信息。所有输入与输出都是随机数据，因此你没法识别钱是不是被转走，是不是还是同一个人持有，哪笔输出是真正的转账，及哪笔是找零等等。Grin 交易完成<em>没有可识别信息</em>。</p>
+<p>另外，Grin 利用<a href="dandelion/dandelion.md">蒲公英中继</a>技术来隐藏交易 IP 地址和客户端，并允许汇集交易，从而提高匿名性。</p>
+<h3 id="heading-8">出现量子计算机怎么办？</h3>
+<p>每笔 Grin 的输出交易中，也包含哈希数据。这些数据抗量子计算。如果出现量子计算机，我们可以安全引入其他验证方式，来保护现有货币系统不会遭到黑客攻击。</p>
+<h3 id="heading-9">所有魔法是怎么实现的？</h3>
+<p>详情请参阅<a href="intro.md">技术简介</a>。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>秘诺切换简介</title>
+			<link>https://funkyswing.github.io/posts/1-05-2020_switch_commitment_zh-cn/</link>
+			<pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://funkyswing.github.io/posts/1-05-2020_switch_commitment_zh-cn/</guid>
+			<description>秘诺切换简介 阅读其它语言版本： English
+概述 密码学中，秘诺 （或_秘诺方案_）这个概念可以想像成一个加锁的盒子。可以在盒子里放东西（例如一张写着密码的纸），把盒子锁起来，再交给另一个人（或公示）。
+另一个方不知道盒子里的密码，但是如果你决定之后按约定公开密码，并要证明这确实是最初你放在盒子里的密码（并未篡改），你仅把盒子钥匙交给另一个人即可证明。
+另一个人可以打开盒子，对比盒子里的密码和你刚刚公开的密码，就可以确定盒子上锁后密码没有变更。你提前&amp;rdquo;承诺&amp;ldquo;密码，意味着在秘诺生成和公开之间，你不可以对其做任何修改。
+范例 秘诺哈希计算 使用密码学哈希函数即可实现简单的秘诺方案 (commitment scheme)。例如，Alice 和 Bob 想要玩“猜数游戏”。Alice 想出自己的密数 29，由 Bob 来猜。在游戏开始前，Alice 做如下计算：
+hash( 29 + r ) 并把结果告诉给 Bob。r 是随机选择的_“致盲因子 (Blinding Factor)”_。之所以需要致盲因子是因为如果没有，Bob 就可以尝试所有可能数字的哈希值，来对比原哈希值。
+游戏结束时，Alice 仅需公开自己的密数 29 和盲因子 r。Bob 自己哈希计算结果，即可验证 Alice 在游戏过程中是否更改过密数。
+Pedersen Commitment 另外，高阶秘诺方案还有其他特性。例如 Mimblewimble 和机密交易 (Confidential Transactions，CT) 大量使用_同态 (homomorphic)_ 秘诺的 _Pedersen Commitments_。这里的“同态”是指，引用上述“盒子”的比喻，可以使用两个加锁盒子（_盒子 1_ 和_盒子 2_），而且可以将其_“合并”_一起。这样你就得到一个大盒子（仍旧加锁），如果之后打开这个含有密数的大盒子（如上述范例），最终的结果就是_盒子 1_ 和_盒子 2_ 的密数总和。
+这个“盒子”的比喻在现实世界中看似不合理，但对椭圆曲线原理无可挑剔。
+如需了解关于 Pedersen Commitment 的详情，请参阅《Mimblewimble 和 Grin 简介》
+秘诺方案特性： 一般而言，秘诺有两大特性，强弱变化视秘诺方案类型而变。</description>
+			<content type="html"><![CDATA[<h1 id="heading">秘诺切换简介</h1>
+<p><em>阅读其它语言版本： <a href="switch_commitment.md">English</a></em></p>
+<h2 id="heading-1">概述</h2>
+<p>密码学中，<em>秘诺</em> （或_秘诺方案_）这个概念可以想像成一个加锁的盒子。可以在盒子里放东西（例如一张写着密码的纸），把盒子锁起来，再交给另一个人（或公示）。</p>
+<p>另一个方不知道盒子里的密码，但是如果你决定之后按约定公开密码，并要证明这确实是最初你放在盒子里的密码（并未篡改），你仅把盒子钥匙交给另一个人即可证明。</p>
+<p>另一个人可以打开盒子，对比盒子里的密码和你刚刚公开的密码，就可以确定盒子上锁后密码没有变更。你提前&rdquo;<strong>承诺</strong>&ldquo;密码，意味着在秘诺生成和公开之间，你不可以对其做任何修改。</p>
+<h2 id="heading-2">范例</h2>
+<h3 id="heading-3">秘诺哈希计算</h3>
+<p>使用密码学哈希函数即可实现简单的秘诺方案 (commitment scheme)。例如，Alice 和 Bob 想要玩“猜数游戏”。Alice 想出自己的密数 <code>29</code>，由 Bob 来猜。在游戏开始前，Alice 做如下计算：</p>
+<pre><code>hash( 29 + r )
+</code></pre>
+<p>并把结果告诉给 Bob。<code>r</code> 是随机选择的_“致盲因子 (Blinding Factor)”_。之所以需要致盲因子是因为如果没有，Bob 就可以尝试所有可能数字的哈希值，来对比原哈希值。</p>
+<p>游戏结束时，Alice 仅需公开自己的密数 <code>29</code> 和盲因子 <code>r</code>。Bob 自己哈希计算结果，即可验证 Alice 在游戏过程中是否更改过密数。</p>
+<h3 id="pedersen-commitment">Pedersen Commitment</h3>
+<p>另外，高阶秘诺方案还有其他特性。例如 Mimblewimble 和机密交易 (Confidential Transactions，CT) 大量使用_同态 (homomorphic)_ 秘诺的 _<a href="https://link.springer.com/content/pdf/10.1007/3-540-46766-1_9.pdf">Pedersen Commitments</a>_。这里的“同态”是指，引用上述“盒子”的比喻，可以使用两个加锁盒子（_盒子  1_ 和_盒子 2_），而且可以将其_“合并”_一起。这样你就得到一个大盒子（仍旧加锁），如果之后打开这个含有密数的大盒子（如上述范例），最终的结果就是_盒子  1_ 和_盒子 2_ 的密数总和。</p>
+<p>这个“盒子”的比喻在现实世界中看似不合理，但对椭圆曲线原理无可挑剔。</p>
+<p>如需了解关于 Pedersen Commitment 的详情，请参阅<a href="intro_ZH-CN.md">《Mimblewimble 和 Grin 简介》</a></p>
+<h2 id="heading-4">秘诺方案特性：</h2>
+<p>一般而言，秘诺有两大特性，强弱变化视秘诺方案类型而变。</p>
+<ul>
+<li>
+<p>**隐匿性（或机密性）：**秘诺方案保护秘诺的强度。或依上述范例：攻击者没有钥匙怎么能打开盒子（知道密数）？</p>
+</li>
+<li>
+<p>**绑定性：**攻击者是否可以找到匹配同一秘诺的不同密数，攻击者之后通过秘诺打开的就是不同秘诺。这样秘诺的_致盲性_就被破解。</p>
+</li>
+</ul>
+<h3 id="heading-5">两种特性的安全性：</h3>
+<p>对于这两种特性，可以确认不同安全级别。</p>
+<p>两种特性最重要的混合使用方式为</p>
+<ul>
+<li><strong>完美绑定</strong>和<strong>计算隐匿</strong>秘诺方案，和</li>
+<li><strong>计算绑定</strong>和<strong>完美隐匿</strong></li>
+</ul>
+<p>“<em>计算</em>”绑定或隐匿的基础数学难度很高，以现有计算能力在合理时间内难以破解（即以世界上的现有计算资源今天不可破解），因此意味着这种特性（绑定性／隐匿性）安全。</p>
+<p>“<em>完美</em>”绑定或隐匿意味着即使有无限计算资源，也不可能破解这一特性（绑定性／隐匿性）</p>
+<h3 id="heading-6">互不相容：</h3>
+<p>需要意识到重要的一点，秘诺方案<strong>不可能</strong>同时兼备_完美绑定_**和**_完美隐匿_。一个思想实验就可以明白：假设攻击者有无限算力，他可以对任意数值生成秘诺（和致盲因子），直到碰撞找到匹配原始秘诺的输出数值。进一步假设秘诺方案为_完美绑定_（意味着不可能两个不同的数值生成相同秘诺），匹配秘诺的数值独一无二，那这样就会破坏隐匿性。</p>
+<p>反之亦然。如果一个秘诺方案为_完美隐匿_，那必然会有多个输入值生成相同秘诺（否则有无限算力的攻击者只需如上所示计算任意数值）。结果就是，这一秘诺方案不可能是_完美绑定_。</p>
+<h4 id="heading-7">有所取舍</h4>
+<p>此处的要点就是：<strong>总要有所取舍</strong>，无法兼备两种特性（<em>隐匿性_和_绑定性</em>）的_完美_安全性。如果一种是_完美_安全，那另一种至多就是_计算_安全（反之亦然）。</p>
+<h3 id="heading-8">加密货币中的应用考虑</h3>
+<p>在设计加密货币时，这些特性扮演了哪些作用？</p>
+<p><strong>隐匿性</strong>：
+对于 Grin 这类注重隐私的加密货币，秘诺方案用以保护交易数据。发送者执行发送一定数量的币，但对于他人具体金额保密（秘诺方案中的_隐匿性_特性）。</p>
+<p><strong>绑定性</strong>：
+同时，交易发起者之后也无法更改秘诺为不同的交易金额。如果更改秘诺成功，攻击者就可以花费比之前在一个 UTXO 生成的币多的金额，这样就凭空造出“假币”。更糟的是，由于金额隐藏，这种情况有可能无法被发现。</p>
+<p>所以保持两种特性安全可靠是根本所在。</p>
+<p>只要一个加密货币始终维持这两种特性，就得选择使用哪种秘诺方案。</p>
+<h4 id="heading-9">难以选择？</h4>
+<p>哪种特性需要_完美_安全，哪种足以_计算性_安全？换句话说：如果秘诺方案被意外攻破，应该提高哪种特性安全级别？是经济稳定性（无通胀可能）还是保证隐私性（隐私不被侵犯）？</p>
+<p>这似乎是个难题。</p>
+<p>深入了解，我们意识到秘诺方案被攻破时需要_完美_绑定。那时候即使只有_计算_绑定也会安全。</p>
+<p>同时隐私加密货币需要<strong>永远</strong>保证_隐匿性_。_绑定_特性只有在创建交易且不会影响过去交易的情况下才重要。不同的是，需要始终保持_隐匿性_。否则遇到意外秘诺方案被攻破的情况下，攻击者会链上回滚，解绑历史交易，进而破坏隐私性。</p>
+<h2 id="pedersen-commitments-">Pedersen Commitments 特性</h2>
+<p>Pedersen Commitments 是<strong>计算绑定</strong>和<strong>完美隐匿</strong>。预设秘诺值为 <code>v</code>: <code>v*H + r*G</code>，会存在一组不同的值 <code>r1</code> 和 <code>v1</code> 其和与预设秘诺值相同。即使有无限算力可以尝试所有可能的值，攻击者也无法分辨哪一个是原始秘诺（因而是_完美隐匿_）。</p>
+<h2 id="heading-10">秘诺切换简介</h2>
+<p>如果 Pedersen Commitment 的绑定性被意外破解那会发生什么？</p>
+<p>一般而言，加密货币的秘诺方案被破解，就会更改加密方案。但问题是更改加密方案就需要使用新的方案创建新的交易输出，来保证资金安全。这就需要每位持币者将币转到新的交易输出。如果没有转币到新交易输出，那就不会受到新秘诺方案的保护。而且一定要在就方案被大规模攻破<strong>之前</strong>转币，否则现有 UTXO 不会记录正确的交易值。</p>
+<p>遇到这种情况，<a href="https://eprint.iacr.org/2017/237.pdf"><em>Switch Commitments</em></a> 给出了简洁的解决方案。这种秘诺仅靠更改公开／验证程序来变更秘诺特性，而无须变更秘诺创建方式。（“<em>切换</em>”到新验证方案，可与在“<em>切换</em>”倩生成的秘诺兼容。）</p>
+<h3 id="heading-11">工作方案</h3>
+<p>首先来介绍新的秘诺方案：<strong>ElGamal commitment</strong> 方案。其为_完美绑定_（由于不能二者兼具所以是_计算隐匿_）。其特征与 Pedersen Commitments 极其类似，只是添加了新元素，致盲因子 <code>r</code> 与 <code>J</code> 相乘计算得出：</p>
+<pre><code>v*H + r*G ,  r*J
+</code></pre>
+<p>如果我们储存额外的域 <code>r*J</code>，并且暂时忽略，我们可以将其视作 Pedersen Commitments 对待，未来随时可以激活完整 ElGamal commitment。主网上线前，<a href="https://github.com/mimblewimble/grin/blob/5a47a1710112153fb38e4406251c9874c366f1c0/core/src/core/transaction.rs#L812">Grin 早期版本</a>就是这样部署。详情为：哈希值 <code>r*J</code>
+(<em>switch_commit_hash</em>) 添加到交易输出，但造成每个输出大小增加 32 字节。</p>
+<p>幸运的是，之后 Mimblewimble 邮件列表成员 Tim Ruffing 提出一个<a href="https://lists.launchpad.net/mimblewimble/msg00479.html">绝妙的解决方案</a>（最初是 Pieter Wuille 所建议）。这一方案保持了相同优势，但不会对交易输出造成额外体积负担。</p>
+<p>方案内容如下：</p>
+<p>普通的 Pedersen Commitment 是这样：</p>
+<pre><code>v*H + r*G
+</code></pre>
+<p>（<code>v</code> 是输入／输出值，<code>r</code> 是随机致盲因子，<code>H</code> 和 <code>G</code> 是椭圆曲线上的两个生成点）。</p>
+<p>如果加以更改，让 <code>r</code> 变为非随机数，但使用另一个随机数 <code>r</code>，来创建 Pedersen Commitment：</p>
+<pre><code>v*H + r*G
+</code></pre>
+<p>例如：</p>
+<pre><code>r = r' + hash( v*H + r'*G  ,  r'*J )
+</code></pre>
+<p>（使用椭圆曲线上的另外第三生成点 <code>J</code>），然后 <code>r</code> 因为仍旧随机分布，所以作为致盲因子仍完美有效，但我们现在看到的括号内哈希函数 (<code>v*H + r'*G  ,  r'*J</code>) 是 <strong>ElGamal commitment</strong>。</p>
+<p>这一绝妙的方案就从输出中移除了秘诺切换哈希（详情请参阅 <a href="https://github.com/mimblewimble/grin/issues/998">pull requests</a>），这样就可以轻松纳入 Pedersen Commitment。</p>
+<p>这就是 Grin 目前的秘诺部署方案。Pedersen Commitment 用作机密交易 (Confidential Transaction)，但没有单纯随机选择致盲因子 <code>r</code>，而是在一个随机数 <code>r</code> 添加 ElGamal commitment 函数来计算（详情请参阅 <a href="https://github.com/mimblewimble/secp256k1-zkp/blob/73617d0fcc4f51896cce4f9a1a6977a6958297f8/src/modules/commitment/main_impl.h#L267">main_impl.h#L267</a>）。</p>
+<p>总之，秘诺切换是在论文<a href="https://eprint.iacr.org/2017/237.pdf">《秘诺切换：安全切换机密交易》</a>中首次提出。“切换”一词来源于未来可以随意“扳动开关”这一想法。仅仅变更验证程序就可以更改秘诺绑定性和隐匿性特性强弱，未来的更改甚至可与创建的历史秘诺兼容。</p>
+<h2 id="heading-12">结语</h2>
+<p>Grin 和其他加密货币一样，都使用 Pedersen Commitments。唯一的区别就是随机致盲因子 <code>r</code> 是利用 ElGamal
+commitment 方案生成。</p>
+<p>这种方案看上去没有差别，但有重要的安全措施：</p>
+<p>Pedersen Commitments 已经是_完美绑定_。所以无论发生什么，无需用户任何操作就可保证无隐私泄露风险。若遇到意外，秘诺方案的绑定性被破解，需要所有新交易通过验证所有 ElGamal 秘诺，证明他们的秘诺没有破解绑定性，就可以启用秘诺切换（通过软分叉）。</p>
+<p>但这种情况下用户仍有选择：</p>
+<ul>
+<li>
+<p>用户可决定继续创建新交易。即使因为 ElGamal 秘诺方案仅为计算隐匿，有可能破坏隐私性（只对<strong>上一个</strong> UTXO），但用户至少仍旧可以存取自己的币。</p>
+</li>
+<li>
+<p>或者用户可决定不管钱，不做任何交易（但是保留隐私性，因为他们的交易仅验证有完美隐匿性的 Pedersen 秘诺）</p>
+</li>
+</ul>
+<p>有些情况下，隐私泄露对某个人的生命安全威胁要高过一定加密货币的损失。但决策权应该留给个人用户，秘诺切换就实现了这种选择。</p>
+<p>需要明确的是，这一安全措施只有在遇到意外灾难的情况下才会启用。若计算有所进步，离散对数难题受到质疑，那包括加密货币在内的众多其他加密系统都需要紧急更新原语，抵抗未来潜在威胁。秘诺切换只是在 Pedersen Commitments 被意外破解情况下，提供额外的安全保护方案。</p>
+]]></content>
+		</item>
+		
+		<item>
 			<title>为何 “Commitment” 称为“秘诺”</title>
-			<link>https://funkyswing.github.io/posts/commitment_english-translation/</link>
+			<link>https://funkyswing.github.io/posts/1-1-2020_commitment_english-translation/</link>
 			<pubDate>Wed, 01 Jan 2020 02:27:12 +0800</pubDate>
 			
-			<guid>https://funkyswing.github.io/posts/commitment_english-translation/</guid>
+			<guid>https://funkyswing.github.io/posts/1-1-2020_commitment_english-translation/</guid>
 			<description>前几天在翻译 Grin 的文档 Introduction to Switch Commitments 中出现 “Commitment Scheme”。“Commitment Scheme” 一般直接翻译为“承诺方案”。首先来看维基百科对这个词的解释。
  A way to visualize a commitment scheme is to think of a sender as putting a message in a locked box, and giving the box to a receiver. The message in the box is hidden from the receiver, who cannot open the lock themselves. Since the receiver has the box, the message inside cannot be changed—merely revealed if the sender chooses to give them the key at some later time.</description>
 			<content type="html"><![CDATA[<p>前几天在翻译 <a href="https://github.com/mimblewimble/grin">Grin</a> 的文档 <a href="https://github.com/mimblewimble/grin/blob/master/doc/switch_commitment.md">Introduction to Switch Commitments</a> 中出现 “Commitment Scheme”。“Commitment Scheme” 一般直接翻译为“承诺方案”。首先来看<a href="https://en.wikipedia.org/wiki/Commitment_scheme">维基百科</a>对这个词的解释。</p>

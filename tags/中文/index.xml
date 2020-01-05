@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leo Young&#39;s Blog</title>
-    <link>https://funkyswing.github.io/</link>
-    <description>Recent content on Leo Young&#39;s Blog</description>
+    <title>中文 on Leo Young&#39;s Blog</title>
+    <link>https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87/</link>
+    <description>Recent content in 中文 on Leo Young&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://funkyswing.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -47,17 +47,6 @@ Pedersen Commitment 另外，高阶秘诺方案还有其他特性。例如 Mimbl
 这个“盒子”的比喻在现实世界中看似不合理，但对椭圆曲线原理无可挑剔。
 如需了解关于 Pedersen Commitment 的详情，请参阅《Mimblewimble 和 Grin 简介》
 秘诺方案特性： 一般而言，秘诺有两大特性，强弱变化视秘诺方案类型而变。</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://funkyswing.github.io/about-me/</link>
-      <pubDate>Wed, 01 Jan 2020 18:42:12 +0800</pubDate>
-      
-      <guid>https://funkyswing.github.io/about-me/</guid>
-      <description>I am a translator from English to Chinese with more than ten years of experience. I am specialized in the fields of finance, IT and marketing.
-I am also a crypto enthusiast since 2013. I have taken part in the translation of technical documents of Grin, a crypto focused on financial privacy and based on weight-light and scalable Mimblewimble protocol.
-Values As a fan of opensource, I believe in a free and open internet.</description>
     </item>
     
     <item>
