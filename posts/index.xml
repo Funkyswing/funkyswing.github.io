@@ -6,8 +6,89 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 28 Jan 2020 02:09:06 +0800</lastBuildDate>
+		<lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://funkyswing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>VPS 上运行 Grin 全节点</title>
+			<link>https://funkyswing.github.io/posts/5-16-2020_grin-node-setting/</link>
+			<pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://funkyswing.github.io/posts/5-16-2020_grin-node-setting/</guid>
+			<description>本文将介绍如何利用 VPS 设置 Grin 全节点。
+为什么要设置全节点？  安全。利用自己设置的全节点可以保证交易安全性。 保护隐私。自己的全节点验证交易，保证交易输出和 IP 地址不被泄露。 保证网络稳定。拒绝恶意行为。提高区块同步速度和交易速度。  准备  VPS Linux Debian 10.0  设置： 进入 root：
+sudo -i 或建立新超级用户，请参阅这里。
+更新系统：
+sudo apt-get update 安装必备工具：
+sudo apt-get install git nano screen pkg-config 出现提示 Do you want to continue? [Y/n] 输入 Y。
+安装相关组件：
+sudo apt-get install clang cmake libncurses5-dev libncursesw5-dev zlib1g-dev libssl-dev tor 出现提示 Do you want to continue? [Y/n] 输入 Y。
+安装 rust：
+curl https://sh.</description>
+			<content type="html"><![CDATA[<p>本文将介绍如何利用 VPS 设置 Grin 全节点。</p>
+<h3 id="heading">为什么要设置全节点？</h3>
+<ul>
+<li>安全。利用自己设置的全节点可以保证交易安全性。</li>
+<li>保护隐私。自己的全节点验证交易，保证交易输出和 IP 地址不被泄露。</li>
+<li>保证网络稳定。拒绝恶意行为。提高区块同步速度和交易速度。</li>
+</ul>
+<h3 id="heading-1">准备</h3>
+<ul>
+<li>VPS</li>
+<li>Linux Debian 10.0</li>
+</ul>
+<h3 id="heading-2">设置：</h3>
+<p>进入 root：</p>
+<pre><code>sudo -i
+</code></pre><p>或建立新超级用户，请参阅<a href="https://linuxize.com/post/how-to-create-a-sudo-user-on-debian/">这里</a>。</p>
+<p>更新系统：</p>
+<pre><code>sudo apt-get update
+</code></pre><p>安装必备工具：</p>
+<pre><code>sudo apt-get install git nano screen pkg-config
+</code></pre><p>出现提示 <code>Do you want to continue? [Y/n]</code> 输入  <code>Y</code>。</p>
+<p>安装相关组件：</p>
+<pre><code>sudo apt-get install clang cmake libncurses5-dev libncursesw5-dev zlib1g-dev libssl-dev tor
+</code></pre><p>出现提示 <code>Do you want to continue? [Y/n]</code> 输入  <code>Y</code>。</p>
+<p>安装 rust：</p>
+<pre><code>curl https://sh.rustup.rs -sSf | sh; source $HOME/.cargo/env
+</code></pre><p>出现提示
+<code>1) Proceed with installation (default)</code>
+<code>2) Customize installation</code>
+<code>3) Cancel installation</code>
+一般选择默认选项 <code>1</code>。</p>
+<p>在安装节点和钱包前，先用 Screen 打开三个界面。一个界面用以安装程序和普通浏览 (console)；一个用以运行节点 (node)；一个用以操作钱包 (wallet)。关于 Screen 使用，详情参阅<a href="https://linuxize.com/post/how-to-use-linux-screen/">这里</a>。建议用一个打开一个。</p>
+<pre><code>screen -S console
+</code></pre><p>按 <code>Ctrl + A + D</code> 退出到主介面。</p>
+<pre><code>screen -S node
+</code></pre><p>按 <code>Ctrl + A + D</code> 退出。</p>
+<pre><code>screen -S wallet
+</code></pre><p>构建最新版本节点：</p>
+<pre><code>git clone https://github.com/mimblewimble/grin.git
+cd grin
+cargo build --release
+</code></pre><p>这步大概需要 30 分钟。等待期间可以浏览 <a href="https://github.com/mimblewimble/docs/wiki/Wallet-User-Guide">Grin Wiki 百科页面</a>，多了解 Grin。</p>
+<p>设置节点：</p>
+<p>退出到主介面，使用以下命令显示现有页面</p>
+<pre><code>screen -ls
+</code></pre><p>使用下面的命令打开 <code>node</code> 页面</p>
+<pre><code>screen -r xxxxx
+</code></pre><p>运行 node</p>
+<pre><code>cd grin
+export PATH=`pwd`/target/release:$PATH
+grin
+</code></pre><p>设置节点文件（可选）</p>
+<pre><code>nano .grin/main/grin-server.toml
+</code></pre><p>设置 <code>api_http_addr = &quot;0.0.0.0:3413&quot;</code> 和 <code>host = &quot;::&quot;</code>。
+最后重启节点。</p>
+<p>全节点如图顺利运行</p>
+<p><img src="/inserted-images/Node-running.jpg" alt="1"></p>
+<p><img src="/inserted-images/Node-direction.jpg" alt="2"></p>
+<hr>
+<p>Donations:</p>
+<p>Grin: 2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd</p>
+<p>XLM: GBS4WDJBP2MQYTYHESCEVO2WTOPEN22XDTMTKTK4GO4OPQ3O36RZOHZM</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>关于事实的“谣言”</title>
