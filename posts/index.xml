@@ -11,20 +11,19 @@
 		
 		<item>
 			<title>VPS 上运行 Grin 全节点</title>
-			<link>https://funkyswing.github.io/posts/5-16-2020_grin-node-setting/</link>
+			<link>https://funkyswing.github.io/posts/5-16-2020_running-full-node-in-vps/</link>
 			<pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
 			
-			<guid>https://funkyswing.github.io/posts/5-16-2020_grin-node-setting/</guid>
+			<guid>https://funkyswing.github.io/posts/5-16-2020_running-full-node-in-vps/</guid>
 			<description>本文将介绍如何利用 VPS 设置 Grin 全节点。
-为什么要设置全节点？  安全。利用自己设置的全节点可以保证交易安全性。 保护隐私。自己的全节点验证交易，保证交易输出和 IP 地址不被泄露。 保证网络稳定。拒绝恶意行为。提高区块同步速度和交易速度。  准备  VPS Linux Debian 10.0  设置： 进入 root：
+为什么要设置全节点？  安全。利用自己设置的全节点可以保证交易安全性。 保护隐私。自己的全节点验证交易，保证交易输出和 IP 地址不被泄露。 保证网络稳定。拒绝恶意行为。提高区块同步速度和交易速度。   准备  VPS Linux Debian 10.0  设置： 进入 root：
 sudo -i 或建立新超级用户，请参阅这里。
 更新系统：
 sudo apt-get update 安装必备工具：
 sudo apt-get install git nano screen pkg-config 出现提示 Do you want to continue? [Y/n] 输入 Y。
 安装相关组件：
 sudo apt-get install clang cmake libncurses5-dev libncursesw5-dev zlib1g-dev libssl-dev tor 出现提示 Do you want to continue? [Y/n] 输入 Y。
-安装 rust：
-curl https://sh.</description>
+安装 rust：</description>
 			<content type="html"><![CDATA[<p>本文将介绍如何利用 VPS 设置 Grin 全节点。</p>
 <h3 id="heading">为什么要设置全节点？</h3>
 <ul>
@@ -32,6 +31,7 @@ curl https://sh.</description>
 <li>保护隐私。自己的全节点验证交易，保证交易输出和 IP 地址不被泄露。</li>
 <li>保证网络稳定。拒绝恶意行为。提高区块同步速度和交易速度。</li>
 </ul>
+<hr>
 <h3 id="heading-1">准备</h3>
 <ul>
 <li>VPS</li>
@@ -66,7 +66,7 @@ curl https://sh.</description>
 <pre><code>git clone https://github.com/mimblewimble/grin.git
 cd grin
 cargo build --release
-</code></pre><p>这步大概需要 30 分钟。等待期间可以浏览 <a href="https://github.com/mimblewimble/docs/wiki/Wallet-User-Guide">Grin Wiki 百科页面</a>，多了解 Grin。</p>
+</code></pre><p>也可以从<a href="https://github.com/mimblewimble/grin/releases">这里</a>直接下载新版本节点。这步大概需要 30 分钟。等待期间可以浏览 <a href="https://github.com/mimblewimble/docs/wiki/Wallet-User-Guide">Grin Wiki 百科页面</a>，多了解 Grin。</p>
 <p>设置节点：</p>
 <p>退出到主介面，使用以下命令显示现有页面</p>
 <pre><code>screen -ls
