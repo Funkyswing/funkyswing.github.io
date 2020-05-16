@@ -76,8 +76,9 @@ cargo build --release
 <pre><code>cd grin
 export PATH=`pwd`/target/release:$PATH
 grin
-</code></pre><p>设置节点文件（可选）</p>
-<pre><code>nano .grin/main/grin-server.toml
+</code></pre><p>设置节点配置文件（可选）</p>
+<pre><code>cd  #进入根目录
+nano .grin/main/grin-server.toml  #打开配置文件
 </code></pre><p>设置 <code>api_http_addr = &quot;0.0.0.0:3413&quot;</code> 和 <code>host = &quot;::&quot;</code>。
 最后重启节点。</p>
 <p>全节点如图顺利运行</p>
