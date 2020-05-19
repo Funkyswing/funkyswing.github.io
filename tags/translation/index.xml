@@ -14,10 +14,10 @@
     
     <item>
       <title>Grin/Mimblewimble 较比特币之优势</title>
-      <link>https://funkyswing.github.io/posts/1-05-2020_grin4bitcoiners_zh-cn/</link>
+      <link>https://funkyswing.github.io/posts/2020-1-05_grin4bitcoiners_zh-cn/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://funkyswing.github.io/posts/1-05-2020_grin4bitcoiners_zh-cn/</guid>
+      <guid>https://funkyswing.github.io/posts/2020-1-05_grin4bitcoiners_zh-cn/</guid>
       <description>本篇是本作者翻译的 Grin 文档之一。简单比较 Bitcoin 之间的优劣。
   阅读其他语言版本：Korean、 English  隐私和可互换性 Grin 链上交易有三个隐私特性：
  没有交易地址； 没有交易金额； 两笔交易，一笔输入是另一笔输出，可以在一个区块中混合成为一笔交易，清除所有中间信息。  前两个特性意味着所有交易不可识别。只要直接进行交易，所有输入、输出数据都显示为随机数（专业术语就是“随机曲线点”）。
@@ -32,10 +32,10 @@
     
     <item>
       <title>秘诺切换简介</title>
-      <link>https://funkyswing.github.io/posts/1-05-2020_switch_commitment_zh-cn/</link>
+      <link>https://funkyswing.github.io/posts/2020-1-05_switch_commitment_zh-cn/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://funkyswing.github.io/posts/1-05-2020_switch_commitment_zh-cn/</guid>
+      <guid>https://funkyswing.github.io/posts/2020-1-05_switch_commitment_zh-cn/</guid>
       <description>本篇是本作者翻译的 Grin 文档之一。“秘诺方案”是密码学中非常重要的加密方式，也在加密货币中广泛应用。
  阅读其它语言版本： English
 概述 密码学中，秘诺 （或_秘诺方案_）这个概念可以想像成一个加锁的盒子。可以在盒子里放东西（例如一张写着密码的纸），把盒子锁起来，再交给另一个人（或公示）。
@@ -51,10 +51,10 @@ Pedersen Commitment 另外，高阶秘诺方案还有其他特性。例如 Mimbl
     
     <item>
       <title>为何 “Commitment” 称为“秘诺”</title>
-      <link>https://funkyswing.github.io/posts/1-1-2020_commitment_english-translation/</link>
+      <link>https://funkyswing.github.io/posts/2020-1-1_commitment_english-translation/</link>
       <pubDate>Wed, 01 Jan 2020 02:27:12 +0800</pubDate>
       
-      <guid>https://funkyswing.github.io/posts/1-1-2020_commitment_english-translation/</guid>
+      <guid>https://funkyswing.github.io/posts/2020-1-1_commitment_english-translation/</guid>
       <description>前几天在翻译 Grin 的文档 Introduction to Switch Commitments 中出现 “Commitment Scheme”。“Commitment Scheme” 一般直接翻译为“承诺方案”。首先来看维基百科对这个词的解释。
  A way to visualize a commitment scheme is to think of a sender as putting a message in a locked box, and giving the box to a receiver. The message in the box is hidden from the receiver, who cannot open the lock themselves. Since the receiver has the box, the message inside cannot be changed—merely revealed if the sender chooses to give them the key at some later time.</description>
     </item>

@@ -7,17 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>How to Use Brave Browser</title>
+      <link>https://funkyswing.github.io/posts/2020-5-19_how-to-use-brave-browser/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-5-19_how-to-use-brave-browser/</guid>
+      <description>今天来介绍使用 Brave 浏览器挖矿之前，先来简单了解 Brave 浏览器。
+简介 Brave 浏览器是由 Brendan Eich 于 2015 年创立。Brendan Eich 是 Javascript 发明人，曾任 Mozilla Corporation CEO，可谓是互联网浏览器界先驱人物。
+传统互联网巨头以尽可能多搜集用户数据，来定向投放广告和内容。Brave 旨在保护用户隐私，创建新的“注意力”生态。目的打破传统互联网以搜集用户数据来投放广告的盈利模式。
+Brave 目前用户量日活跃用户 (DAU) 超 400 万，月活跃用户 (MAU) 超 1200 万。
+目前 Brave 有几大功能：
+ 屏蔽搜集数据的广告和追踪器 屏蔽有害广告，增强浏览速度 内置 Tor 浏览器 内置 Brave Rewards 奖励机制  奖励机制 Brave 奖励机制以 Basic Attention Token (BAT) 为基础。主要分为两部分：
+  用户浏览广告，可获得相应奖励（目前是每浏览一次奖励 0.1 BAT） Brave 浏览器根据用户浏览访问内容和时间，用户可定期按比例向内容作者/网站奖励。用户浏览数据对浏览器完全匿名，私人信息始终在个人设备上储存   Brave 在机器学习的帮助下建立“注意力价值”生态，保护用户因此的情况下，让广告主能更有针对性发布广告，让用户有更多自主选择权。创造用户和广告主双赢。
+如何浏览广告挖矿  安装浏览器后，打开 Brave Rewards 点击进入  观看广告后，打开新页面就会看到奖励（奖励每月定期发放）  就是这么简单！</description>
+    </item>
+    
+    <item>
       <title>VPS 上运行 Grin 全节点</title>
-      <link>https://funkyswing.github.io/posts/5-16-2020_running-full-node-in-vps/</link>
+      <link>https://funkyswing.github.io/posts/2020-5-16_running-full-node-in-vps/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://funkyswing.github.io/posts/5-16-2020_running-full-node-in-vps/</guid>
+      <guid>https://funkyswing.github.io/posts/2020-5-16_running-full-node-in-vps/</guid>
       <description>本文将介绍如何利用 VPS 设置 Grin 全节点。
 为什么要设置全节点？  安全。利用自己设置的全节点可以保证交易安全性。 保护隐私。自己的全节点验证交易，保证交易输出和 IP 地址不被泄露。 保证网络稳定。拒绝恶意行为。提高区块同步速度和交易速度。   准备  VPS Linux Debian 10.0  设置： 进入 root：
 sudo -i 或建立新超级用户，请参阅这里。
@@ -31,10 +47,10 @@ sudo apt-get install clang cmake libncurses5-dev libncursesw5-dev zlib1g-dev lib
     
     <item>
       <title>Grin/Mimblewimble 较比特币之优势</title>
-      <link>https://funkyswing.github.io/posts/1-05-2020_grin4bitcoiners_zh-cn/</link>
+      <link>https://funkyswing.github.io/posts/2020-1-05_grin4bitcoiners_zh-cn/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://funkyswing.github.io/posts/1-05-2020_grin4bitcoiners_zh-cn/</guid>
+      <guid>https://funkyswing.github.io/posts/2020-1-05_grin4bitcoiners_zh-cn/</guid>
       <description>本篇是本作者翻译的 Grin 文档之一。简单比较 Bitcoin 之间的优劣。
   阅读其他语言版本：Korean、 English  隐私和可互换性 Grin 链上交易有三个隐私特性：
  没有交易地址； 没有交易金额； 两笔交易，一笔输入是另一笔输出，可以在一个区块中混合成为一笔交易，清除所有中间信息。  前两个特性意味着所有交易不可识别。只要直接进行交易，所有输入、输出数据都显示为随机数（专业术语就是“随机曲线点”）。
@@ -49,10 +65,10 @@ sudo apt-get install clang cmake libncurses5-dev libncursesw5-dev zlib1g-dev lib
     
     <item>
       <title>秘诺切换简介</title>
-      <link>https://funkyswing.github.io/posts/1-05-2020_switch_commitment_zh-cn/</link>
+      <link>https://funkyswing.github.io/posts/2020-1-05_switch_commitment_zh-cn/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://funkyswing.github.io/posts/1-05-2020_switch_commitment_zh-cn/</guid>
+      <guid>https://funkyswing.github.io/posts/2020-1-05_switch_commitment_zh-cn/</guid>
       <description>本篇是本作者翻译的 Grin 文档之一。“秘诺方案”是密码学中非常重要的加密方式，也在加密货币中广泛应用。
  阅读其它语言版本： English
 概述 密码学中，秘诺 （或_秘诺方案_）这个概念可以想像成一个加锁的盒子。可以在盒子里放东西（例如一张写着密码的纸），把盒子锁起来，再交给另一个人（或公示）。
