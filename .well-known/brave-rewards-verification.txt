@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: funkyswing.github.io
+Token: eca28f055be3941cd9b933d2ce29a5d566a46ae7aee80610c25362d8d5f2b067
