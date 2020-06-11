@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>加密资产 | Erasure 数据交易市场</title>
+      <link>https://funkyswing.github.io/posts/2020-6-7_numerai-unleash-the-power-of-data/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-6-7_numerai-unleash-the-power-of-data/</guid>
+      <description>“信息是种独特的商品：其创造方式不可预知，只有拥有后才能判断是好是坏。只要拥有的人就可以无成本复制。这就造成市场难以对其进行定价并传播价值。” &amp;ndash; Joel Monegro，Placeholder*
+ 在社交网络或使用即使通讯工具，随时都有无数信息传播。面对海量信息，我们又无暇验证每条看到的信息真实性。之所以假消息或误导性信息泛滥，就是因为制造成本低。那么有没有一种方式可以遏制不实或假消息的制造，并增加传播成本？去中心化数据交换协议 Erasure 就是要做这样的事情。
+Numerai 的开放式金融数据社区 Erasure 由 Numerai 构建。Numerai 是一家匿名数据科学家社区组成的量化交易对冲基金，2015 年底由数据科学家 Richard Craib 创办。得到对冲基金文艺复兴科技 (Renaissance Technologies) 联合创始人 Howard Morgan，天使投资人 Naval Ravikant 和风投 USV 投资。2017 年在以太坊发行代币 Numeraire (NMR)，用以股市数据预测抵押和奖励。
+传统对冲基金掌握金融市场大量关键数据，以文艺复兴为例每年处理上 PB 数据。这些数据对这些基金来讲就是金矿，数据分析方法和工具就是炼金术。这是它们保持优势所在。随着开源工具 Theano 和 TensorFlow 的应用，各领域数据科学研究更加开放。在加密学领域同态加密 (homomorphic encryption) 的发展，可以保护机密信息同时向数据科学家公开数据用以机器学习和数据分析。
+Numerai 因此而诞生。Numerai 开放股票市场数据，数据科学家应用机器学习算法预测股票未来价格。参与者抵押一定 NMR 代币，智能合约锁定。抵押代币多少代表对自身预测结果的信心程度。预测结果越准确，获得相应的奖励越高。相反，如预测结果偏差过大，Numerai 可以对其进行惩罚。按照预设比例，以一定小金额价值代币燃烧对方大金额代币。例如惩罚比例是 0.1 ，Numerai 可自己燃烧 1 个 NMR 燃烧对方 10 个 NMR。燃烧就是“删除键”，将你我的钱都消失。
+ 二十一实际最有价值的对冲基金会将网络效应融入到资本分配中。 &amp;ndash; Richard Craib，Numerai 创始人
+ Numerai 的创新之处就是有“价值抵押的数据”能更加保证数据质量。数据科学家通过挖掘数据结果获得奖励，提供数据行为更像是一种共识行为，或者可以称为“智力证明” (Proof of intelligence)。自 2017 开始 Numeraire 就是以太坊应用最多的代币之一。数据科学家不仅愿意用自己的有价值数据换得加密货币，也愿意对自己的信息进行价值抵押。保证信息质量同时，更有利于基金在匿名网络分配资金。如果有人愿意对自己的数据结果进行抵押，会有人更放心购买，风险共担的市场促进优质信息传播。</description>
+    </item>
     
     <item>
       <title>投资哲学 | 面对变幻莫测的世界</title>
@@ -36,7 +51,7 @@ Howard Marks 不定期发布备忘录，巴菲特曾评价：“只要在邮件�
     </item>
     
     <item>
-      <title>Brave 商业模式及未来</title>
+      <title>加密资产 | Brave 商业模式及未来</title>
       <link>https://funkyswing.github.io/posts/2020-5-27_brave-ads-modeling/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
