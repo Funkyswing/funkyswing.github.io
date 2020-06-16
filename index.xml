@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>分布所周报 #01 | 金融创新</title>
+      <link>https://funkyswing.github.io/posts/2020-6-15_newsletter-1/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-6-15_newsletter-1/</guid>
+      <description>早就有想更新 Newsletter 的想法。先做一个尝试，定期更新最近读到的业内动态和资讯。
+区块链 1 - 纽约时报：区块链是否会成为解决网络假消息泛滥的解决方案？
+Could Blockchain Be a Solution to the Issue of Misinformation Online?
+纽约时报技术团队正在探索解决网络假消息泛滥问题的解决方案。例如图片一旦在网络上传开，缺少背景信息，很容易被用作误导性传播假消息。
+区块链的分布式账本技术 (DLT) 的信息不可篡改性，可溯源性恰好是解决这一问题的天然方案。
+但是在应用区块链技术在技术领域前有几个问题也要解决。
+ 链上内容需获得网络用户审核。但是智能合约的验证规则复杂。 网络图片一定要与原始版本匹配。社交媒体及新闻网站难以接入区块链验证图片 ID。 区块链网络一定要开放，新组织可以随时接入。  2 - Coindesk：《股市与经济脱钩，需要金融创新》
+Stock Market Disconnect Shows Need For Financial Innovation (Money Reimagined 专栏 CCO Michael J. Case)
+(Newsletter 订阅地址：https://www.coindesk.com/newsletters)
+在美联储财政和货币政策刺激下，在失业申报人数不断增加情况下，从三月底至今美股标普 500 反弹超 30%。再次证明目前资本市场资源错配，加剧不平衡。是时候再仔细研究 ICO 。
+尽管 2016 ~ 2017 年 1CO 热潮引来很多骗局，利用信息不对称造成投资者损失。但这并不意味着 ICO 没有好处。
+ ICO 可以让更多人加入到创新投资中，而不是未来保护特权投资基金和少数投资者。 利用得当可以将资金配置给真正有需要的创新者。 公平分配财富。让创新的财富分配给更多大众，而不是少数投资者获得巨额财富。  由于华尔街有过度政治利益，阻碍创新。这是结构性问题。</description>
+    </item>
     
     <item>
       <title>加密资产 | Erasure 数据交易市场</title>
@@ -174,16 +194,6 @@ Pedersen Commitment 另外，高阶秘诺方案还有其他特性。例如 Mimbl
       <description>I am a translator from English to Chinese with more than ten years of experience. I am specialized in the fields of finance, IT and marketing.
 I am also a crypto enthusiast since 2013. I have taken part in the translation of technical documents of Grin, a crypto focused on financial privacy and based on weight-light and scalable Mimblewimble protocol.
 Values As a fan of opensource, I believe in a free and open internet.</description>
-    </item>
-    
-    <item>
-      <title>为何 “Commitment” 称为“秘诺”</title>
-      <link>https://funkyswing.github.io/posts/2020-1-1_commitment_english-translation/</link>
-      <pubDate>Wed, 01 Jan 2020 02:27:12 +0800</pubDate>
-      
-      <guid>https://funkyswing.github.io/posts/2020-1-1_commitment_english-translation/</guid>
-      <description>前几天在翻译 Grin 的文档 Introduction to Switch Commitments 中出现 “Commitment Scheme”。“Commitment Scheme” 一般直接翻译为“承诺方案”。首先来看维基百科对这个词的解释。
- A way to visualize a commitment scheme is to think of a sender as putting a message in a locked box, and giving the box to a receiver. The message in the box is hidden from the receiver, who cannot open the lock themselves. Since the receiver has the box, the message inside cannot be changed—merely revealed if the sender chooses to give them the key at some later time.</description>
     </item>
     
   </channel>
