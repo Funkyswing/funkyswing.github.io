@@ -6,8 +6,86 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://funkyswing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>分布所周报 #04 | 金融创新</title>
+			<link>https://funkyswing.github.io/posts/2020-7-06_newsletter-4/</link>
+			<pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://funkyswing.github.io/posts/2020-7-06_newsletter-4/</guid>
+			<description>区块链 # - POW 共识算法主要两个作用 1）验证交易，维护共识，保证安全性；2）公平分配货币。某种程度来说验证交易要比公平分配更加重要。而流动性挖矿就不一样，即使不给流动性提供者奖励协议也会照常运行。对于流动性挖矿，代币公平分配更重要。这样可以吸引更多新用户，有利于长远社区决策，让监管者不再视其为证券。对于用户，或许只需要存入 USD 获得稍高利息，这样就会轻松吸引数亿级传统银行存款进入 DeFi。简单的协议也更容易保证安全。 流动性挖矿和 POW 挖矿对比(by Hasu)
+# - ** l6 月 29 日凌晨 DeFi 平台 Balancer 上的 STA 和 STONK 两个 ERC20 通缩代币池遭到了黑客攻击，损失超过 50 万美元。事后 Balancer 发推表示赔偿用户损失。这是今年第三起 DeFi 平台遭到攻击。今年 2 月 15 日 bZx 遭到攻击损失超过一百万美元。四月 dForce 由于 ERC777 合约漏洞遭到黑客攻击损失超过 2,500 万美元 ，被盗资金后被追回。DeFi平台Balancer遭黑客攻击全过程技术拆解**
+# - ** 去中心化交易所今年也竞争激烈，去中心化衍生品交易所 DerivaDEX 获得第二轮融资 270 万美元，由 Polychain Capital、Dragonfly Capital Partners、Electric Capital、Coinbase Ventures、CMS Holdings 等领投。DerivaDEX 下一代衍生品交易所**
+# - ** “收益农场 (Yield Farming)” 兴起，DeFi Rate 这篇总结各个协议特点。收益农场简介**</description>
+			<content type="html"><![CDATA[<h3 id="heading">区块链</h3>
+<p><strong><em># -</em></strong> POW 共识算法主要两个作用 1）验证交易，维护共识，保证安全性；2）公平分配货币。某种程度来说验证交易要比公平分配更加重要。而流动性挖矿就不一样，即使不给流动性提供者奖励协议也会照常运行。对于流动性挖矿，代币公平分配更重要。这样可以吸引更多新用户，有利于长远社区决策，让监管者不再视其为证券。对于用户，或许只需要存入 USD 获得稍高利息，这样就会轻松吸引数亿级传统银行存款进入 DeFi。简单的协议也更容易保证安全。 <strong><a href="https://insights.deribit.com/market-research/comparing-liquidity-mining-and-proof-of-work/">流动性挖矿和 POW 挖矿对比(by Hasu)</a></strong></p>
+<p><strong><em># -</em> ** l6 月 29 日凌晨 DeFi 平台 Balancer 上的 STA 和 STONK 两个 ERC20 通缩代币池遭到了黑客攻击，损失超过 50 万美元。事后 Balancer 发推表示赔偿用户损失。这是今年第三起 DeFi 平台遭到攻击。今年 2 月 15 日 <a href="https://mp.weixin.qq.com/s/bfxbHRebNwh5mIHPZ9ABtw">bZx 遭到攻击</a>损失超过一百万美元。四月 <a href="https://mp.weixin.qq.com/s/jZYmkA28M-wE_MAgoUZcsQ">dForce 由于 ERC777 合约漏洞遭到黑客攻击</a>损失超过 2,500 万美元 ，被盗资金后被追回。</strong><a href="https://mp.weixin.qq.com/s/8W3LDyTXFVHvnC0VSAfpRA">DeFi平台Balancer遭黑客攻击全过程技术拆解</a>**</p>
+<p><strong><em># -</em> ** 去中心化交易所今年也竞争激烈，去中心化衍生品交易所 DerivaDEX 获得第二轮融资 270 万美元，由 Polychain Capital、Dragonfly Capital Partners、Electric Capital、Coinbase Ventures、CMS Holdings 等领投。</strong><a href="https://medium.com/derivadex/introducing-derivadex-a-next-generation-decentralized-exchange-for-derivatives-62cc0ab8ee7d">DerivaDEX 下一代衍生品交易所</a>**</p>
+<p><strong><em># -</em> ** “收益农场 (Yield Farming)” 兴起，DeFi Rate 这篇总结各个协议特点。</strong><a href="https://defirate.com/earn/">收益农场简介</a>**</p>
+<h3 id="heading-1">金融：</h3>
+<h3 id="heading-2">科技：</h3>
+<p><strong><em># -</em></strong> 社交媒体作为信息传播交流渠道，同平台也会偏向于同化，不同社交媒体也变成意识形态争夺地。例如川普同样的言论在 Twitter 和 Facebook 就会得到不同反应。川普曾发一条 Twitter 称反种族歧视示威者为暴徒，Twitter 就标记为宣扬暴力。而 Facebook 却声称要保留公正性而不做任何处理。可口可乐、星巴克等大公司之后集体抗议，撤销在 Facebook 广告。之后加拿大多家银行也参与到这次抵制。扎克伯格在一次公司会议上表示自己和公司的立场不会改变。公司不会因为外部压力改变政策。目前 Facebook 主要广告来源中小企业。他还相信这些抵制的大公司总会回来。面对监管和舆论的压力，扎克伯格仍旧坚持自己的方式，或许背后就是公司利益。<strong><a href="https://amp.dailycaller.com/2020/07/02/zuckerberg-facebook-trump-censor-boycott?__twitter_impression=true">扎克伯格不会因为一点威胁妥协</a></strong></p>
+<p><strong><em># -</em></strong> 随着人类对现代科技越来越依赖，面对风险我们的社会也越来越脆弱。瘟疫、火山爆发、地震等自然灾害就可以让一个社会瘫痪。更不要提环境变化、生化武器等等。或许我们需要一个更好的预防机制。《经济学人》这篇简报值得阅读。<strong><a href="https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks">世界应该重新思考灾难和现实风险</a></strong>。</p>
+<p><strong><em># -</em></strong> 美国国防部高级研究规划局简称 DARPA。气象卫星、GPS、个人电脑、互联网、语音设备等与我们生活息息相关的很多技术都离不开这个机构。那么它的组织方式有什么特别。或许产品经理们可以借鉴。<strong><a href="https://benjaminreinhardt.com/wddw#conclusions">为何 DARPA 有效？</a></strong></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>分布所周报 #03 | 世界在骤变</title>
+			<link>https://funkyswing.github.io/posts/2020-6-29_newsletter-3/</link>
+			<pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://funkyswing.github.io/posts/2020-6-29_newsletter-3/</guid>
+			<description>美国新增 Covid-19 病例创新高，总计病例超过 260 万人。大家的生活已经永久改变。或许我们要长久伴随新冠病毒。我们之前频繁的家庭聚会，好友聚会都减少，或者变为线上聊天。隔离，健康码，核酸检测，测温，口罩…这些词汇经过短短半年时间已在我们生活中使用愈加频繁。监控也称了日常。即使病毒之后消失或出现疫苗，我们的生活也不会再回到疫情之前的样子。有些印记，一旦留下就不会再抹除。在这场灾难中，不知道多少人在无声中忍耐。
+大量公司裁员、倒闭同时，互联网公司在这次社会危机中看到机遇。远程视频软件 Zoom 用户大增，Google 也推出同类软件 Meet。虽然今年大家都在说消费降级，618 京东销售额增长 34%，拼多多股价新高。随着我们越来越依靠大公司，用户牺牲的隐私也越来越多，大公司获取的个人数据越多，我们对大公司的依赖也就越来越深。微软、苹果、亚马逊都在开发人脸识别技术，亚马逊的人脸识别技术还被用于政府机构。在民间机构的压力下，IBM、微软、亚马逊都停止向政府提供人脸识别服务。个人隐私也会商品化，例如 Zoom 就推出付费服务可以更好保护用户个人隐私。
+随着大型公司受到的监管压力加大和反垄断的钳制，还有自身遇到的“创新者窘境”，或许未来会是各类小型初创公司的机遇。但用户能不能获得更多数据权利，还要依靠自身的觉醒。
+区块链 # - 丝绸之路创始人罗斯：Maker应如何应对黑天鹅危机？
+暗网市场创始人 Ross Ulbritcht 在狱中也始终关注行业发展。对 Maker 给出自己的意见。
+# - ZKANN: 问题内容的可能解决方案
+https://medium.com/swlh/zkann-a-possible-solution-to-the-content-problem-6a4eec578b5b
+Ross Ulbritcht 的另一篇文章关于，使用“零知识证明人工智能神经网络 (ZKANN)”解决加密通讯软件中的色情等违法内容问题。
+# - POS 和 DeFi 可以在抵押债券中学到什么
+https://medium.com/gauntlet-networks/what-pos-and-defi-can-learn-from-mortgage-backed-securities-3d60dc18ee51
+从金融衍生品方面来看待 DeFi 和 POS 的发展，以及未来可能遇到的风险。
+# - 收益农场共生系统
+https://bankless.substack.com/p/aquaponic-yield-farming
+如何构建长期稳定的借代协议。
+科技： # - 微软永久关闭全球零售店
+https://www.theverge.com/2020/6/26/21297400/microsoft-retail-stores-closing-cities-open
+微软决定关闭全球所有零售店。只保留四个城市的体验店。
+# - 广告展示平台如何与媒体分成
+https://blog.google/products/admanager/display-buying-share-revenue-publishers?utm_source=Benedict%27s+Newsletter&amp;amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;amp;utm_medium=email&amp;amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;amp;mc_cid=8b12bef661&amp;amp;mc_eid=efbb1c6f17
+# - 新闻媒体如何使用 Ad Manager 赚钱
+https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm_source=Benedict%27s+Newsletter&amp;amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;amp;utm_medium=email&amp;amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;amp;mc_cid=8b12bef661&amp;amp;mc_eid=efbb1c6f17
+这两篇讲解 Google Ad Manager 如何与广告展示媒体分成。</description>
+			<content type="html"><![CDATA[<p>美国新增 Covid-19 病例创新高，总计病例超过 260 万人。大家的生活已经永久改变。或许我们要长久伴随新冠病毒。我们之前频繁的家庭聚会，好友聚会都减少，或者变为线上聊天。隔离，健康码，核酸检测，测温，口罩…这些词汇经过短短半年时间已在我们生活中使用愈加频繁。监控也称了日常。即使病毒之后消失或出现疫苗，我们的生活也不会再回到疫情之前的样子。有些印记，一旦留下就不会再抹除。在这场灾难中，不知道多少人在无声中忍耐。</p>
+<p>大量公司裁员、倒闭同时，互联网公司在这次社会危机中看到机遇。远程视频软件 Zoom 用户大增，Google 也推出同类软件 Meet。虽然今年大家都在说消费降级，618 京东销售额增长 34%，拼多多股价新高。随着我们越来越依靠大公司，用户牺牲的隐私也越来越多，大公司获取的个人数据越多，我们对大公司的依赖也就越来越深。微软、苹果、亚马逊都在开发人脸识别技术，亚马逊的人脸识别技术还被用于政府机构。在民间机构的压力下，IBM、微软、亚马逊都停止向政府提供人脸识别服务。个人隐私也会商品化，例如 Zoom 就推出付费服务可以更好保护用户个人隐私。</p>
+<p>随着大型公司受到的监管压力加大和反垄断的钳制，还有自身遇到的“创新者窘境”，或许未来会是各类小型初创公司的机遇。但用户能不能获得更多数据权利，还要依靠自身的觉醒。</p>
+<h3 id="heading">区块链</h3>
+<p><strong>#</strong> - <a href="https://mp.weixin.qq.com/s/4Vxl4Ohy4zACMjv5uySrhg"><strong>丝绸之路创始人罗斯：Maker应如何应对黑天鹅危机？</strong></a></p>
+<p>暗网市场创始人 Ross Ulbritcht 在狱中也始终关注行业发展。对 Maker 给出自己的意见。</p>
+<p><strong>#</strong> - <a href="https://medium.com/swlh/zkann-a-possible-solution-to-the-content-problem-6a4eec578b5b"><strong>ZKANN: 问题内容的可能解决方案</strong></a></p>
+<p><a href="https://medium.com/swlh/zkann-a-possible-solution-to-the-content-problem-6a4eec578b5b">https://medium.com/swlh/zkann-a-possible-solution-to-the-content-problem-6a4eec578b5b</a></p>
+<p>Ross Ulbritcht 的另一篇文章关于，使用“零知识证明人工智能神经网络 (ZKANN)”解决加密通讯软件中的色情等违法内容问题。</p>
+<p><strong>#</strong> - <a href="https://medium.com/gauntlet-networks/what-pos-and-defi-can-learn-from-mortgage-backed-securities-3d60dc18ee51"><strong>POS 和 DeFi 可以在抵押债券中学到什么</strong></a></p>
+<p><a href="https://medium.com/gauntlet-networks/what-pos-and-defi-can-learn-from-mortgage-backed-securities-3d60dc18ee51">https://medium.com/gauntlet-networks/what-pos-and-defi-can-learn-from-mortgage-backed-securities-3d60dc18ee51</a></p>
+<p>从金融衍生品方面来看待 DeFi 和 POS 的发展，以及未来可能遇到的风险。</p>
+<p><strong>#</strong> - <a href="https://bankless.substack.com/p/aquaponic-yield-farming"><strong>收益农场共生系统</strong></a></p>
+<p><a href="https://bankless.substack.com/p/aquaponic-yield-farming">https://bankless.substack.com/p/aquaponic-yield-farming</a></p>
+<p>如何构建长期稳定的借代协议。</p>
+<h3 id="heading-1">科技：</h3>
+<p><strong>#</strong> - <a href="https://www.theverge.com/2020/6/26/21297400/microsoft-retail-stores-closing-cities-open"><strong>微软永久关闭全球零售店</strong></a></p>
+<p><a href="https://www.theverge.com/2020/6/26/21297400/microsoft-retail-stores-closing-cities-open">https://www.theverge.com/2020/6/26/21297400/microsoft-retail-stores-closing-cities-open</a></p>
+<p>微软决定关闭全球所有零售店。只保留四个城市的体验店。</p>
+<p><strong>#</strong> - <a href="https://blog.google/products/admanager/display-buying-share-revenue-publishers?utm_source=Benedict%27s+Newsletter&amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;utm_medium=email&amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;mc_cid=8b12bef661&amp;mc_eid=efbb1c6f17"><strong>广告展示平台如何与媒体分成</strong></a></p>
+<p><a href="https://blog.google/products/admanager/display-buying-share-revenue-publishers?utm_source=Benedict%27s+Newsletter&amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;utm_medium=email&amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;mc_cid=8b12bef661&amp;mc_eid=efbb1c6f17">https://blog.google/products/admanager/display-buying-share-revenue-publishers?utm_source=Benedict%27s+Newsletter&amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;utm_medium=email&amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;mc_cid=8b12bef661&amp;mc_eid=efbb1c6f17</a></p>
+<p><strong>#</strong> - <a href="https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm_source=Benedict%27s+Newsletter&amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;utm_medium=email&amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;mc_cid=8b12bef661&amp;mc_eid=efbb1c6f17"><strong>新闻媒体如何使用 Ad Manager 赚钱</strong></a></p>
+<p><a href="https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm_source=Benedict%27s+Newsletter&amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;utm_medium=email&amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;mc_cid=8b12bef661&amp;mc_eid=efbb1c6f17">https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm_source=Benedict%27s+Newsletter&amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;utm_medium=email&amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;mc_cid=8b12bef661&amp;mc_eid=efbb1c6f17</a></p>
+<p>这两篇讲解 Google Ad Manager 如何与广告展示媒体分成。</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>分布所周报 #02 | DeFi 可以变革金融吗</title>
@@ -591,7 +669,7 @@ Brave 内置 BAT 打赏。任何网站、博客、社交网络账户，经过验
 		</item>
 		
 		<item>
-			<title>VPS 上运行 Grin 全节点</title>
+			<title>VPS 运行 Grin 全节点</title>
 			<link>https://funkyswing.github.io/posts/2020-5-16_running-full-node-in-vps/</link>
 			<pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
 			
@@ -674,10 +752,6 @@ nano .grin/main/grin-server.toml  #打开配置文件
 <li><em><a href="https://github.com/mimblewimble/docs/wiki/How-to-use-the-Grin-wallet">How to use the Grin wallet</a></em></li>
 <li><em><a href="https://medium.com/@28e6d94f/how-to-install-and-run-a-grin-node-with-a-debianvps-dab8dcbe88d8">How to install Grin node on VPS (下载安装)</a></em></li>
 </ol>
-<hr>
-<h5 id="donations">Donations:</h5>
-<h5 id="grin-2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd">Grin: 2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd</h5>
-<h5 id="xlm-gbs4wdjbp2mqytyhescevo2wtopen22xdtmtktk4go4opq3o36rzohzm">XLM: GBS4WDJBP2MQYTYHESCEVO2WTOPEN22XDTMTKTK4GO4OPQ3O36RZOHZM</h5>
 ]]></content>
 		</item>
 		

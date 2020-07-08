@@ -7,10 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>分布所周报 #04 | 金融创新</title>
+      <link>https://funkyswing.github.io/posts/2020-7-06_newsletter-4/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-7-06_newsletter-4/</guid>
+      <description>区块链 # - POW 共识算法主要两个作用 1）验证交易，维护共识，保证安全性；2）公平分配货币。某种程度来说验证交易要比公平分配更加重要。而流动性挖矿就不一样，即使不给流动性提供者奖励协议也会照常运行。对于流动性挖矿，代币公平分配更重要。这样可以吸引更多新用户，有利于长远社区决策，让监管者不再视其为证券。对于用户，或许只需要存入 USD 获得稍高利息，这样就会轻松吸引数亿级传统银行存款进入 DeFi。简单的协议也更容易保证安全。 流动性挖矿和 POW 挖矿对比(by Hasu)
+# - ** l6 月 29 日凌晨 DeFi 平台 Balancer 上的 STA 和 STONK 两个 ERC20 通缩代币池遭到了黑客攻击，损失超过 50 万美元。事后 Balancer 发推表示赔偿用户损失。这是今年第三起 DeFi 平台遭到攻击。今年 2 月 15 日 bZx 遭到攻击损失超过一百万美元。四月 dForce 由于 ERC777 合约漏洞遭到黑客攻击损失超过 2,500 万美元 ，被盗资金后被追回。DeFi平台Balancer遭黑客攻击全过程技术拆解**
+# - ** 去中心化交易所今年也竞争激烈，去中心化衍生品交易所 DerivaDEX 获得第二轮融资 270 万美元，由 Polychain Capital、Dragonfly Capital Partners、Electric Capital、Coinbase Ventures、CMS Holdings 等领投。DerivaDEX 下一代衍生品交易所**
+# - ** “收益农场 (Yield Farming)” 兴起，DeFi Rate 这篇总结各个协议特点。收益农场简介**</description>
+    </item>
+    
+    <item>
+      <title>分布所周报 #03 | 世界在骤变</title>
+      <link>https://funkyswing.github.io/posts/2020-6-29_newsletter-3/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-6-29_newsletter-3/</guid>
+      <description>美国新增 Covid-19 病例创新高，总计病例超过 260 万人。大家的生活已经永久改变。或许我们要长久伴随新冠病毒。我们之前频繁的家庭聚会，好友聚会都减少，或者变为线上聊天。隔离，健康码，核酸检测，测温，口罩…这些词汇经过短短半年时间已在我们生活中使用愈加频繁。监控也称了日常。即使病毒之后消失或出现疫苗，我们的生活也不会再回到疫情之前的样子。有些印记，一旦留下就不会再抹除。在这场灾难中，不知道多少人在无声中忍耐。
+大量公司裁员、倒闭同时，互联网公司在这次社会危机中看到机遇。远程视频软件 Zoom 用户大增，Google 也推出同类软件 Meet。虽然今年大家都在说消费降级，618 京东销售额增长 34%，拼多多股价新高。随着我们越来越依靠大公司，用户牺牲的隐私也越来越多，大公司获取的个人数据越多，我们对大公司的依赖也就越来越深。微软、苹果、亚马逊都在开发人脸识别技术，亚马逊的人脸识别技术还被用于政府机构。在民间机构的压力下，IBM、微软、亚马逊都停止向政府提供人脸识别服务。个人隐私也会商品化，例如 Zoom 就推出付费服务可以更好保护用户个人隐私。
+随着大型公司受到的监管压力加大和反垄断的钳制，还有自身遇到的“创新者窘境”，或许未来会是各类小型初创公司的机遇。但用户能不能获得更多数据权利，还要依靠自身的觉醒。
+区块链 # - 丝绸之路创始人罗斯：Maker应如何应对黑天鹅危机？
+暗网市场创始人 Ross Ulbritcht 在狱中也始终关注行业发展。对 Maker 给出自己的意见。
+# - ZKANN: 问题内容的可能解决方案
+https://medium.com/swlh/zkann-a-possible-solution-to-the-content-problem-6a4eec578b5b
+Ross Ulbritcht 的另一篇文章关于，使用“零知识证明人工智能神经网络 (ZKANN)”解决加密通讯软件中的色情等违法内容问题。
+# - POS 和 DeFi 可以在抵押债券中学到什么
+https://medium.com/gauntlet-networks/what-pos-and-defi-can-learn-from-mortgage-backed-securities-3d60dc18ee51
+从金融衍生品方面来看待 DeFi 和 POS 的发展，以及未来可能遇到的风险。
+# - 收益农场共生系统
+https://bankless.substack.com/p/aquaponic-yield-farming
+如何构建长期稳定的借代协议。
+科技： # - 微软永久关闭全球零售店
+https://www.theverge.com/2020/6/26/21297400/microsoft-retail-stores-closing-cities-open
+微软决定关闭全球所有零售店。只保留四个城市的体验店。
+# - 广告展示平台如何与媒体分成
+https://blog.google/products/admanager/display-buying-share-revenue-publishers?utm_source=Benedict%27s+Newsletter&amp;amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;amp;utm_medium=email&amp;amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;amp;mc_cid=8b12bef661&amp;amp;mc_eid=efbb1c6f17
+# - 新闻媒体如何使用 Ad Manager 赚钱
+https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm_source=Benedict%27s+Newsletter&amp;amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;amp;utm_medium=email&amp;amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;amp;mc_cid=8b12bef661&amp;amp;mc_eid=efbb1c6f17
+这两篇讲解 Google Ad Manager 如何与广告展示媒体分成。</description>
+    </item>
     
     <item>
       <title>分布所周报 #02 | DeFi 可以变革金融吗</title>

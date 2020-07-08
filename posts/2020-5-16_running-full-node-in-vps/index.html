@@ -7,7 +7,7 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#494f5c">
 	<meta name="msapplication-TileColor" content="#494f5c">
-<meta itemprop="name" content="VPS 上运行 Grin 全节点">
+<meta itemprop="name" content="VPS 运行 Grin 全节点">
 <meta itemprop="description" content="本文将介绍如何利用 VPS 设置 Grin 全节点。
 为什么要设置全节点？  安全。利用自己设置的全节点可以保证交易安全性。 保护隐私。自己的全节点验证交易，保证交易输出和 IP 地址不被泄露。 保证网络稳定。拒绝恶意行为。提高区块同步速度和交易速度。   准备  VPS Linux Debian 10.0  设置： 进入 root：
 sudo -i 或建立新超级用户，请参阅这里。
@@ -19,11 +19,11 @@ sudo apt-get install clang cmake libncurses5-dev libncursesw5-dev zlib1g-dev lib
 安装 rust：">
 <meta itemprop="datePublished" content="2020-05-15T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2020-05-15T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="202">
+<meta itemprop="wordCount" content="197">
 
 
 
-<meta itemprop="keywords" content="crypto,中文," /><meta property="og:title" content="VPS 上运行 Grin 全节点" />
+<meta itemprop="keywords" content="crypto,中文," /><meta property="og:title" content="VPS 运行 Grin 全节点" />
 <meta property="og:description" content="本文将介绍如何利用 VPS 设置 Grin 全节点。
 为什么要设置全节点？  安全。利用自己设置的全节点可以保证交易安全性。 保护隐私。自己的全节点验证交易，保证交易输出和 IP 地址不被泄露。 保证网络稳定。拒绝恶意行为。提高区块同步速度和交易速度。   准备  VPS Linux Debian 10.0  设置： 进入 root：
 sudo -i 或建立新超级用户，请参阅这里。
@@ -38,7 +38,7 @@ sudo apt-get install clang cmake libncurses5-dev libncursesw5-dev zlib1g-dev lib
 <meta property="article:published_time" content="2020-05-15T00:00:00+00:00" />
 <meta property="article:modified_time" content="2020-05-15T00:00:00+00:00" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="VPS 上运行 Grin 全节点"/>
+<meta name="twitter:title" content="VPS 运行 Grin 全节点"/>
 <meta name="twitter:description" content="本文将介绍如何利用 VPS 设置 Grin 全节点。
 为什么要设置全节点？  安全。利用自己设置的全节点可以保证交易安全性。 保护隐私。自己的全节点验证交易，保证交易输出和 IP 地址不被泄露。 保证网络稳定。拒绝恶意行为。提高区块同步速度和交易速度。   准备  VPS Linux Debian 10.0  设置： 进入 root：
 sudo -i 或建立新超级用户，请参阅这里。
@@ -56,7 +56,7 @@ sudo apt-get install clang cmake libncurses5-dev libncursesw5-dev zlib1g-dev lib
 	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
 	<link rel="shortcut icon" href="/favicon.ico">
 
-	<title>VPS 上运行 Grin 全节点</title>
+	<title>VPS 运行 Grin 全节点</title>
 	<link rel="stylesheet" href="https://funkyswing.github.io/css/style.min.657bcb7af31123e4156b1a3d2ff60a636717e54ead74f882136b5114cf72b55e.css" integrity="sha256-ZXvLevMRI+QVaxo9L/YKY2cX5U6tdPiCE2tRFM9ytV4=" crossorigin="anonymous">
 	
 </head>
@@ -95,7 +95,7 @@ sudo apt-get install clang cmake libncurses5-dev libncursesw5-dev zlib1g-dev lib
 		<article class="thin">
 			<header class="post-header">
 				<div class="post-meta"><span>May 15, 2020</span></div>
-				<h1>VPS 上运行 Grin 全节点</h1>
+				<h1>VPS 运行 Grin 全节点</h1>
 			</header>
 			<div class="content">
 				<p>本文将介绍如何利用 VPS 设置 Grin 全节点。</p>
@@ -167,10 +167,6 @@ nano .grin/main/grin-server.toml  #打开配置文件
 <li><em><a href="https://github.com/mimblewimble/docs/wiki/How-to-use-the-Grin-wallet">How to use the Grin wallet</a></em></li>
 <li><em><a href="https://medium.com/@28e6d94f/how-to-install-and-run-a-grin-node-with-a-debianvps-dab8dcbe88d8">How to install Grin node on VPS (下载安装)</a></em></li>
 </ol>
-<hr>
-<h5 id="donations">Donations:<a href="#donations" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h5>
-<h5 id="grin-2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd">Grin: 2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd<a href="#grin-2wcagjgl7j2koe57trfjpylx2qum7qr6f65evbldl7vh2wrrmkdi6zyd" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h5>
-<h5 id="xlm-gbs4wdjbp2mqytyhescevo2wtopen22xdtmtktk4go4opq3o36rzohzm">XLM: GBS4WDJBP2MQYTYHESCEVO2WTOPEN22XDTMTKTK4GO4OPQ3O36RZOHZM<a href="#xlm-gbs4wdjbp2mqytyhescevo2wtopen22xdtmtktk4go4opq3o36rzohzm" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h5>
 
 			</div>
 			<hr class="post-end">
@@ -179,7 +175,7 @@ nano .grin/main/grin-server.toml  #打开配置文件
 				<p>
 					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://funkyswing.github.io/tags/crypto">crypto</a></span><span class="tag"><a href="https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87">中文</a></span>
 				</p>
-				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>202 Words</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>197 Words</p>
 				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2020-05-15 08:00 &#43;0800</p>
 			</footer>
 		</article>
