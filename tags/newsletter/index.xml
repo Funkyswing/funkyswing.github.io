@@ -7,13 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>分布所周报 #04 | 金融创新</title>
+      <title>分布所周刊 #06 | 分化的世界和经济</title>
+      <link>https://funkyswing.github.io/posts/2020-7-20_newsletter-6/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-7-20_newsletter-6/</guid>
+      <description>区块链 # - 从 1602 年荷兰东印度公司首次向公众发型股票和证券开始，经过三百多年到二十世纪三十年代，股票估值才正式建立股票估值方法及准则。价值投资大师本杰明·格拉汉姆也是此时逐渐为人所知。加密资产只有几年的发展，也有不同估值方法出现。在社交网站流传最广的就是 stock-2-flow 和对数回归价格。中本聪早期也提出过币生产成本对算力和市场价格的调节作用。目前有的估值模型有
+ 交易等式（Equation of Exchange） 未来贴现效用模型（Discounted Future Utility Models） 梅特卡夫定律（Metcalfe’s Law） 价格回归模型（Price Regression Models） 生产成本模型（Cost of Production Models） 资产泡沫确认（Asset Bubble Identification）  由于加密资产有别于传统股票和证券的经济模式、价值交换模式，估值方法也无法完全套用传统估值模型。不同的共识机制，经济模式大不同。相同的共识机制，也会因经济模型、奖励形式、通胀、治理的差别需要不同估值模型。两篇文章初探 crypto 估值。寻求加密资产统一估值，加密资产估值研究（Coinmetrics）
+# - 今年时间已过半，市场从暴跌中反弹，不知不觉迎来牛市。前二十排名的币中，有八个增幅超过比特币。现货、期货和期权市场都在稳步增长，但仍属交易规模仍旧有限。比特币减半后算力仍旧增加。矿工仍旧在持币。以太坊网络拥堵gas fee 增加，DeFi 成为市场大热门。很多人也不知所措。Coindesk 这篇第二季度报告作为总结，也可以作为对市场下半年的展望。
+# - 自由开源软件 (FOSS) 原则是区块链网络建设的基础。代码公开，无需软件专利进行控制，通过社会化、社区化的方式管理维护。仍旧需要准则来进行网络贡献、维护。治理也是社区发展，网络达成共识稳定的基础。治理需要确定资产管理和所有权；项目远景和政策；软件开发和升级程序；社区管理和社会控制；冲突决议和规则创立与变更；沟通与组织工具和方法。不同项目也需要不同治理类型，遵守准则也有所不同。自由开源软件治理和区块链网络来剖析开源项目治理。
+# - 过去二十多年互联网诞生的大型公司彻底改变我们的生活方式和交往方式。新技术未来仍会改变人们的工作方式和价值分配方式。荀子有言“有恒产者有恒心”。所有权也会用户贡献资源、代码、社区建设的一个动力，甚至会发展成一种经济模式“所有权经济” (Ownership Economy)。点对点协议 BitTorrent 2004 年占互联网流量三分之一，显示出用户对书籍、视频、音频媒体所有权的强大需求。随之诞生 Youtube、Netflix 等大型流媒体。即便如此，p2p 下载软件的需求仍不减。而加密货币以原生网络媒介，能高效捕捉媒体价值，分配价值。Variant Fund 视所有权经济为下一代消费者软件前沿
+# - 黑客改几行代码，黑客潜伏两个月后，增发三亿才被发现。这也会算作是加密资产历史上的一件奇异攻击事件。项目的代码管理、治理也是开源项目不断探索的一个议题。高智商犯罪：价值 4000 万人民币的 3 行代码
+金融： # - 中美的经济政治对世界有重大影响。哈佛 Niall Ferguson 和柏林自由大学 Moritz Schularick 从中美汇率和经济交织来分析中美关系。中美终结</description>
+    </item>
+    
+    <item>
+      <title>分布所周刊 #05 | 冲突</title>
+      <link>https://funkyswing.github.io/posts/2020-7-13_newsletter-5/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-7-13_newsletter-5/</guid>
+      <description>区块链 # - 三月股市大跌之后，美联储降息，加大经济刺激。Tether 也同时开始增发，市场需求明显增加，以超过 90 亿美元获得加密资产市值第三。随着 DeFi 的发展，预计将来加密美元市场会继续增长，市场竞争对手也会越来越多。目前市场加密美元有两种，一种以 USDT、USDC、PAX 为代表的法币资产抵押；另外就是以 DAI 为代表的加密资产抵押。与传统数字美元不同，（1）加密美元更灵活；（2）运行在开放的网络上；（3）可审计。Castle Island 投资公司这篇报告对加密美元市场进行分析解读：加密美元
+# - Staking 可以说有机会创造全新的投资和经济模式，已经不可忽视。这篇来介绍 Staking。理解 Staking
+# - DeFi 的结构，未来在经济中的作用，目前存在哪些风险。Maple Leaf 资本这篇报告做出分析。ETH + DeFi 价值链的基本架构
+# - 以太坊第二层协议目前发展现状。离线可扩展解决方案，离线交易方案以及存在哪些风险。以太坊 L2 状态
+# - DeFi 会不会夺取传统金融市场份额。或许我们应该存有野心。当然有人说要主动多多交易，那我不太同意。DeFi 要吃掉传统金融
+金融： # - 2008 年经济危机全球央行开始 QE，美国尤其展开有史以来最大。但为什么这十年中美国没有出现高通胀，这可以说是经济学的一大谜团。但有几个现象值得注意。例如科技让大众获取各项服务的成本大大减少，一部手机可以看视频听音乐看书浏览新闻；吸引更多欠发达地区低成本劳动力；低利率可以维持大多数科技公司负收益经营；商品价格低；财富集中… 量化宽松、现代货币理论、通胀、通缩：简介
+科技： # - 抖音海外版 TikTok 最近是在风口浪尖。先是国安法发布后宣布撤出香港市场。这对他们也许是折中方案，而且香港在其全球市场只占很小部分，大约 15 万用户。之后川普政府提议禁止 TikTok，这在美国用户中也引起不小波澜。退出香港市场，TikTok 用户小紧张</description>
+    </item>
+    
+    <item>
+      <title>分布所周刊 #04 | 金融创新</title>
       <link>https://funkyswing.github.io/posts/2020-7-06_newsletter-4/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
@@ -25,7 +55,7 @@
     </item>
     
     <item>
-      <title>分布所周报 #03 | 世界在骤变</title>
+      <title>分布所周刊 #03 | 世界在骤变</title>
       <link>https://funkyswing.github.io/posts/2020-6-29_newsletter-3/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -55,7 +85,7 @@ https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm
     </item>
     
     <item>
-      <title>分布所周报 #02 | DeFi 可以变革金融吗</title>
+      <title>分布所周刊 #02 | DeFi 可以变革金融吗</title>
       <link>https://funkyswing.github.io/posts/2020-6-22_newsletter-2/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -76,7 +106,7 @@ https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm
     </item>
     
     <item>
-      <title>分布所周报 #01 | 金融创新</title>
+      <title>分布所周刊 #01 | 金融创新</title>
       <link>https://funkyswing.github.io/posts/2020-6-15_newsletter-1/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       

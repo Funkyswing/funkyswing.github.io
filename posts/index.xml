@@ -6,11 +6,73 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://funkyswing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>分布所周报 #04 | 金融创新</title>
+			<title>分布所周刊 #06 | 分化的世界和经济</title>
+			<link>https://funkyswing.github.io/posts/2020-7-20_newsletter-6/</link>
+			<pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://funkyswing.github.io/posts/2020-7-20_newsletter-6/</guid>
+			<description>区块链 # - 从 1602 年荷兰东印度公司首次向公众发型股票和证券开始，经过三百多年到二十世纪三十年代，股票估值才正式建立股票估值方法及准则。价值投资大师本杰明·格拉汉姆也是此时逐渐为人所知。加密资产只有几年的发展，也有不同估值方法出现。在社交网站流传最广的就是 stock-2-flow 和对数回归价格。中本聪早期也提出过币生产成本对算力和市场价格的调节作用。目前有的估值模型有
+ 交易等式（Equation of Exchange） 未来贴现效用模型（Discounted Future Utility Models） 梅特卡夫定律（Metcalfe’s Law） 价格回归模型（Price Regression Models） 生产成本模型（Cost of Production Models） 资产泡沫确认（Asset Bubble Identification）  由于加密资产有别于传统股票和证券的经济模式、价值交换模式，估值方法也无法完全套用传统估值模型。不同的共识机制，经济模式大不同。相同的共识机制，也会因经济模型、奖励形式、通胀、治理的差别需要不同估值模型。两篇文章初探 crypto 估值。寻求加密资产统一估值，加密资产估值研究（Coinmetrics）
+# - 今年时间已过半，市场从暴跌中反弹，不知不觉迎来牛市。前二十排名的币中，有八个增幅超过比特币。现货、期货和期权市场都在稳步增长，但仍属交易规模仍旧有限。比特币减半后算力仍旧增加。矿工仍旧在持币。以太坊网络拥堵gas fee 增加，DeFi 成为市场大热门。很多人也不知所措。Coindesk 这篇第二季度报告作为总结，也可以作为对市场下半年的展望。
+# - 自由开源软件 (FOSS) 原则是区块链网络建设的基础。代码公开，无需软件专利进行控制，通过社会化、社区化的方式管理维护。仍旧需要准则来进行网络贡献、维护。治理也是社区发展，网络达成共识稳定的基础。治理需要确定资产管理和所有权；项目远景和政策；软件开发和升级程序；社区管理和社会控制；冲突决议和规则创立与变更；沟通与组织工具和方法。不同项目也需要不同治理类型，遵守准则也有所不同。自由开源软件治理和区块链网络来剖析开源项目治理。
+# - 过去二十多年互联网诞生的大型公司彻底改变我们的生活方式和交往方式。新技术未来仍会改变人们的工作方式和价值分配方式。荀子有言“有恒产者有恒心”。所有权也会用户贡献资源、代码、社区建设的一个动力，甚至会发展成一种经济模式“所有权经济” (Ownership Economy)。点对点协议 BitTorrent 2004 年占互联网流量三分之一，显示出用户对书籍、视频、音频媒体所有权的强大需求。随之诞生 Youtube、Netflix 等大型流媒体。即便如此，p2p 下载软件的需求仍不减。而加密货币以原生网络媒介，能高效捕捉媒体价值，分配价值。Variant Fund 视所有权经济为下一代消费者软件前沿
+# - 黑客改几行代码，黑客潜伏两个月后，增发三亿才被发现。这也会算作是加密资产历史上的一件奇异攻击事件。项目的代码管理、治理也是开源项目不断探索的一个议题。高智商犯罪：价值 4000 万人民币的 3 行代码
+金融： # - 中美的经济政治对世界有重大影响。哈佛 Niall Ferguson 和柏林自由大学 Moritz Schularick 从中美汇率和经济交织来分析中美关系。中美终结</description>
+			<content type="html"><![CDATA[<h3 id="heading">区块链</h3>
+<p><strong><em># -</em></strong> 从 1602 年荷兰东印度公司首次向公众发型股票和证券开始，经过三百多年到二十世纪三十年代，股票估值才正式建立股票估值方法及准则。价值投资大师本杰明·格拉汉姆也是此时逐渐为人所知。加密资产只有几年的发展，也有不同估值方法出现。在社交网站流传最广的就是 stock-2-flow 和对数回归价格。中本聪早期也提出过币生产成本对算力和市场价格的调节作用。目前有的估值模型有</p>
+<ol>
+<li>交易等式（Equation of Exchange）</li>
+<li>未来贴现效用模型（Discounted Future Utility Models）</li>
+<li>梅特卡夫定律（Metcalfe’s Law）</li>
+<li>价格回归模型（Price Regression Models）</li>
+<li>生产成本模型（Cost of Production Models）</li>
+<li>资产泡沫确认（Asset Bubble Identification）</li>
+</ol>
+<p>由于加密资产有别于传统股票和证券的经济模式、价值交换模式，估值方法也无法完全套用传统估值模型。不同的共识机制，经济模式大不同。相同的共识机制，也会因经济模型、奖励形式、通胀、治理的差别需要不同估值模型。两篇文章初探 crypto 估值。<a href="https://medium.com/@HASHCIB/seeking-uniform-valuation-for-crypto-part-ii-5012f91d06af">寻求加密资产统一估值</a>，<a href="https://medium.com/@HASHCIB/seeking-uniform-valuation-for-crypto-part-ii-5012f91d06af">加密资产估值研究（Coinmetrics）</a></p>
+<p><strong><em># -</em></strong> 今年时间已过半，市场从暴跌中反弹，不知不觉迎来牛市。前二十排名的币中，有八个增幅超过比特币。现货、期货和期权市场都在稳步增长，但仍属交易规模仍旧有限。比特币减半后算力仍旧增加。矿工仍旧在持币。以太坊网络拥堵gas fee 增加，DeFi 成为市场大热门。很多人也不知所措。<a href="https://www.coindesk.com/wp-content/uploads/2020/07/QuarterlyReview_CoindeskResearch_2020Q2-1.pdf">Coindesk 这篇第二季度报告</a>作为总结，也可以作为对市场下半年的展望。</p>
+<p><strong><em># -</em></strong> 自由开源软件 (FOSS) 原则是区块链网络建设的基础。代码公开，无需软件专利进行控制，通过社会化、社区化的方式管理维护。仍旧需要准则来进行网络贡献、维护。治理也是社区发展，网络达成共识稳定的基础。治理需要确定资产管理和所有权；项目远景和政策；软件开发和升级程序；社区管理和社会控制；冲突决议和规则创立与变更；沟通与组织工具和方法。不同项目也需要不同治理类型，遵守准则也有所不同。<a href="https://medium.com/@mariolaul/foss-governance-and-blockchain-networks-f32dbbc0d5dd">自由开源软件治理和区块链网络</a>来剖析开源项目治理。</p>
+<p><strong><em># -</em></strong> 过去二十多年互联网诞生的大型公司彻底改变我们的生活方式和交往方式。新技术未来仍会改变人们的工作方式和价值分配方式。荀子有言“有恒产者有恒心”。所有权也会用户贡献资源、代码、社区建设的一个动力，甚至会发展成一种经济模式“所有权经济” (Ownership Economy)。点对点协议 BitTorrent 2004 年占互联网流量三分之一，显示出用户对书籍、视频、音频媒体所有权的强大需求。随之诞生 Youtube、Netflix 等大型流媒体。即便如此，p2p 下载软件的需求仍不减。而加密货币以原生网络媒介，能高效捕捉媒体价值，分配价值。<a href="https://variant.fund/the-ownership-economy-crypto-and-consumer-software/">Variant Fund 视所有权经济为下一代消费者软件前沿</a></p>
+<p><strong><em># -</em></strong> 黑客改几行代码，黑客潜伏两个月后，增发三亿才被发现。这也会算作是加密资产历史上的一件奇异攻击事件。项目的代码管理、治理也是开源项目不断探索的一个议题。<a href="https://mp.weixin.qq.com/s/EzIRiyFlc1PRJlbCCmqLvA">高智商犯罪：价值 4000 万人民币的 3 行代码</a></p>
+<h3 id="heading-1">金融：</h3>
+<p><strong><em># -</em></strong> 中美的经济政治对世界有重大影响。哈佛 Niall Ferguson 和柏林自由大学 Moritz Schularick 从中美汇率和经济交织来分析中美关系。<a href="https://www.hbs.edu/faculty/Publication%20Files/10-037_0fdf7d5e-ce9e-45d8-9429-84f8047db65b.pdf?utm_source=newsletters&amp;utm_medium=moneyreimagined&amp;utm_campaign=&amp;clid=00Q1I00000KKd2CUAT">中美终结</a></p>
+<h3 id="heading-2">科技：</h3>
+<p><strong><em># -</em></strong> 政客在社交媒体的话会影响社会舆论，那么一个激烈言辞会不会引发战争？类似这样的事情 2013 年就发生过。叙利亚黑客攻击美联社 Twitter 账户，发布信息“重大新闻：白宫发生两起爆炸，奥巴马受伤”。<a href="https://www.washingtonpost.com/news/worldviews/wp/2013/04/23/syrian-hackers-claim-ap-hack-that-tipped-stock-market-by-136-billion-is-it-terrorism/">一分钟内道指跌 150 点，损失 1360 亿美元</a>。社交网络在我们生活中越来越重要，这样的黑客事件严重可能引发战争，金融市场失序，只有在科幻小说里的情结却实实在在发生在我们身边。上周三这样的事情又在 Twitter 发生。7 月 15 日奥巴马、马斯克、比尔盖茨等名流政要 Twitter 账户被黑客攻击，发布加密货币诈骗信息。各个媒体对此次事件报道不一，<a href="https://savingjournalism.substack.com/p/twitters-bad-day-the-rest-of-the">到底哪里不对</a>？18 日 <a href="https://savingjournalism.substack.com/p/twitters-bad-day-the-rest-of-the">Twitter 这篇声明</a>算是中肯，首先承认被社工。希望后续有详细调查。</p>
+<p><strong><em># -</em></strong> 十年前谷歌退出中国市场如果这是政治理念冲突，Tiktok 目前在美国和其他国家的困境可能还有商业困境。这一点在 Facebook 身上都可以看到。用户隐私，对社会舆论影响力，这些问题 Facebook 一直被诟病。Tiktok 用户便捷制作视频，多样化丰富 GUC，更是凭借精准算法推荐迅速占得全球短视频市场。让 YouTube 这种以热点为主的视频网站也望尘莫及。以算法推荐为主的内容分配弱化Facebook 社交传播模式。尽管 Tiktok 做出多种措施，与大陆字节跳动母公司切割，主动退出香港市场，要站稳国外市场是<a href="https://stratechery.com/2020/the-tiktok-war/">一场战争 (via Stratechery)</a>。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>分布所周刊 #05 | 冲突</title>
+			<link>https://funkyswing.github.io/posts/2020-7-13_newsletter-5/</link>
+			<pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://funkyswing.github.io/posts/2020-7-13_newsletter-5/</guid>
+			<description>区块链 # - 三月股市大跌之后，美联储降息，加大经济刺激。Tether 也同时开始增发，市场需求明显增加，以超过 90 亿美元获得加密资产市值第三。随着 DeFi 的发展，预计将来加密美元市场会继续增长，市场竞争对手也会越来越多。目前市场加密美元有两种，一种以 USDT、USDC、PAX 为代表的法币资产抵押；另外就是以 DAI 为代表的加密资产抵押。与传统数字美元不同，（1）加密美元更灵活；（2）运行在开放的网络上；（3）可审计。Castle Island 投资公司这篇报告对加密美元市场进行分析解读：加密美元
+# - Staking 可以说有机会创造全新的投资和经济模式，已经不可忽视。这篇来介绍 Staking。理解 Staking
+# - DeFi 的结构，未来在经济中的作用，目前存在哪些风险。Maple Leaf 资本这篇报告做出分析。ETH + DeFi 价值链的基本架构
+# - 以太坊第二层协议目前发展现状。离线可扩展解决方案，离线交易方案以及存在哪些风险。以太坊 L2 状态
+# - DeFi 会不会夺取传统金融市场份额。或许我们应该存有野心。当然有人说要主动多多交易，那我不太同意。DeFi 要吃掉传统金融
+金融： # - 2008 年经济危机全球央行开始 QE，美国尤其展开有史以来最大。但为什么这十年中美国没有出现高通胀，这可以说是经济学的一大谜团。但有几个现象值得注意。例如科技让大众获取各项服务的成本大大减少，一部手机可以看视频听音乐看书浏览新闻；吸引更多欠发达地区低成本劳动力；低利率可以维持大多数科技公司负收益经营；商品价格低；财富集中… 量化宽松、现代货币理论、通胀、通缩：简介
+科技： # - 抖音海外版 TikTok 最近是在风口浪尖。先是国安法发布后宣布撤出香港市场。这对他们也许是折中方案，而且香港在其全球市场只占很小部分，大约 15 万用户。之后川普政府提议禁止 TikTok，这在美国用户中也引起不小波澜。退出香港市场，TikTok 用户小紧张</description>
+			<content type="html"><![CDATA[<h3 id="heading">区块链</h3>
+<p><strong><em># -</em></strong> 三月股市大跌之后，美联储降息，加大经济刺激。Tether 也同时开始增发，市场需求明显增加，以超过 90 亿美元获得加密资产市值第三。随着 DeFi 的发展，预计将来加密美元市场会继续增长，市场竞争对手也会越来越多。目前市场加密美元有两种，一种以 USDT、USDC、PAX 为代表的法币资产抵押；另外就是以 DAI 为代表的加密资产抵押。与传统数字美元不同，（1）加密美元更灵活；（2）运行在开放的网络上；（3）可审计。Castle Island 投资公司这篇报告对加密美元市场进行分析解读：<a href="https://cdn.b12.io/client_media/2nMpL8WQ/2b43d97c-c061-11ea-a23f-0242ac110002-Cryptodollars_Castle_Island_Ventures_2020-07-07.pdf?utm_campaign=Investor%20Letters&amp;utm_medium=email&amp;_hsmi=91103417&amp;_hsenc=p2ANqtz-8kxWfqPa87G5i-su7YUH1PLCYL5kAG0rTkYmHqMzVnNNV3Ui3unTvmRoPhtB2QxZehiALU2hS38BjQGqFSAdGRIqx-aQ&amp;utm_content=91103417&amp;utm_source=hs_email"><strong>加密美元</strong></a></p>
+<p><strong><em># -</em></strong> Staking 可以说有机会创造全新的投资和经济模式，已经不可忽视。这篇来介绍 Staking。<strong><a href="https://medium.com/coinmonks/understanding-staking-b045825e49db">理解 Staking</a></strong></p>
+<p><strong><em># -</em></strong> DeFi 的结构，未来在经济中的作用，目前存在哪些风险。Maple Leaf 资本这篇报告做出分析。<strong><a href="https://drive.google.com/file/d/1_pjGxEdCgZDnzvhWFDuBjAT2o5C965gP/view">ETH + DeFi 价值链的基本架构</a></strong></p>
+<p><strong><em># -</em></strong> 以太坊第二层协议目前发展现状。离线可扩展解决方案，离线交易方案以及存在哪些风险。<strong><a href="https://www.tokendaily.co/blog/the-state-of-ethereum-l2">以太坊 L2 状态</a></strong></p>
+<p><strong><em># -</em></strong> DeFi 会不会夺取传统金融市场份额。或许我们应该存有野心。当然有人说要主动多多交易，那我不太同意。<strong><a href="https://thedefiant.substack.com/p/defi-will-eat-traditional-finance-d8e">DeFi 要吃掉传统金融</a></strong></p>
+<h3 id="heading-1">金融：</h3>
+<p><strong><em># -</em></strong> 2008 年经济危机全球央行开始 QE，美国尤其展开有史以来最大。但为什么这十年中美国没有出现高通胀，这可以说是经济学的一大谜团。但有几个现象值得注意。例如科技让大众获取各项服务的成本大大减少，一部手机可以看视频听音乐看书浏览新闻；吸引更多欠发达地区低成本劳动力；低利率可以维持大多数科技公司负收益经营；商品价格低；财富集中… <strong><a href="https://www.lynalden.com/quantitative-easing-mmt-inflation/">量化宽松、现代货币理论、通胀、通缩：简介</a></strong></p>
+<h3 id="heading-2">科技：</h3>
+<p><strong><em># -</em></strong> 抖音海外版 TikTok 最近是在风口浪尖。先是国安法发布后宣布撤出香港市场。这对他们也许是折中方案，而且香港在其全球市场只占很小部分，大约 15 万用户。之后川普政府提议禁止 TikTok，这在美国用户中也引起不小波澜。<strong><a href="https://www.axios.com/tiktok-to-pull-out-of-hong-kong-e253eb02-69e9-4abb-a5c2-28ffa196a9a0.html">退出香港市场</a></strong>，<strong><a href="https://www.cnn.com/2020/07/10/tech/tiktok-ban-users/index.html">TikTok 用户小紧张</a></strong></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>分布所周刊 #04 | 金融创新</title>
 			<link>https://funkyswing.github.io/posts/2020-7-06_newsletter-4/</link>
 			<pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
 			
@@ -24,8 +86,7 @@
 <p><strong><em># -</em> ** l6 月 29 日凌晨 DeFi 平台 Balancer 上的 STA 和 STONK 两个 ERC20 通缩代币池遭到了黑客攻击，损失超过 50 万美元。事后 Balancer 发推表示赔偿用户损失。这是今年第三起 DeFi 平台遭到攻击。今年 2 月 15 日 <a href="https://mp.weixin.qq.com/s/bfxbHRebNwh5mIHPZ9ABtw">bZx 遭到攻击</a>损失超过一百万美元。四月 <a href="https://mp.weixin.qq.com/s/jZYmkA28M-wE_MAgoUZcsQ">dForce 由于 ERC777 合约漏洞遭到黑客攻击</a>损失超过 2,500 万美元 ，被盗资金后被追回。</strong><a href="https://mp.weixin.qq.com/s/8W3LDyTXFVHvnC0VSAfpRA">DeFi平台Balancer遭黑客攻击全过程技术拆解</a>**</p>
 <p><strong><em># -</em> ** 去中心化交易所今年也竞争激烈，去中心化衍生品交易所 DerivaDEX 获得第二轮融资 270 万美元，由 Polychain Capital、Dragonfly Capital Partners、Electric Capital、Coinbase Ventures、CMS Holdings 等领投。</strong><a href="https://medium.com/derivadex/introducing-derivadex-a-next-generation-decentralized-exchange-for-derivatives-62cc0ab8ee7d">DerivaDEX 下一代衍生品交易所</a>**</p>
 <p><strong><em># -</em> ** “收益农场 (Yield Farming)” 兴起，DeFi Rate 这篇总结各个协议特点。</strong><a href="https://defirate.com/earn/">收益农场简介</a>**</p>
-<h3 id="heading-1">金融：</h3>
-<h3 id="heading-2">科技：</h3>
+<h3 id="heading-1">科技：</h3>
 <p><strong><em># -</em></strong> 社交媒体作为信息传播交流渠道，同平台也会偏向于同化，不同社交媒体也变成意识形态争夺地。例如川普同样的言论在 Twitter 和 Facebook 就会得到不同反应。川普曾发一条 Twitter 称反种族歧视示威者为暴徒，Twitter 就标记为宣扬暴力。而 Facebook 却声称要保留公正性而不做任何处理。可口可乐、星巴克等大公司之后集体抗议，撤销在 Facebook 广告。之后加拿大多家银行也参与到这次抵制。扎克伯格在一次公司会议上表示自己和公司的立场不会改变。公司不会因为外部压力改变政策。目前 Facebook 主要广告来源中小企业。他还相信这些抵制的大公司总会回来。面对监管和舆论的压力，扎克伯格仍旧坚持自己的方式，或许背后就是公司利益。<strong><a href="https://amp.dailycaller.com/2020/07/02/zuckerberg-facebook-trump-censor-boycott?__twitter_impression=true">扎克伯格不会因为一点威胁妥协</a></strong></p>
 <p><strong><em># -</em></strong> 随着人类对现代科技越来越依赖，面对风险我们的社会也越来越脆弱。瘟疫、火山爆发、地震等自然灾害就可以让一个社会瘫痪。更不要提环境变化、生化武器等等。或许我们需要一个更好的预防机制。《经济学人》这篇简报值得阅读。<strong><a href="https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks">世界应该重新思考灾难和现实风险</a></strong>。</p>
 <p><strong><em># -</em></strong> 美国国防部高级研究规划局简称 DARPA。气象卫星、GPS、个人电脑、互联网、语音设备等与我们生活息息相关的很多技术都离不开这个机构。那么它的组织方式有什么特别。或许产品经理们可以借鉴。<strong><a href="https://benjaminreinhardt.com/wddw#conclusions">为何 DARPA 有效？</a></strong></p>
@@ -33,7 +94,7 @@
 		</item>
 		
 		<item>
-			<title>分布所周报 #03 | 世界在骤变</title>
+			<title>分布所周刊 #03 | 世界在骤变</title>
 			<link>https://funkyswing.github.io/posts/2020-6-29_newsletter-3/</link>
 			<pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
 			
@@ -88,7 +149,7 @@ https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm
 		</item>
 		
 		<item>
-			<title>分布所周报 #02 | DeFi 可以变革金融吗</title>
+			<title>分布所周刊 #02 | DeFi 可以变革金融吗</title>
 			<link>https://funkyswing.github.io/posts/2020-6-22_newsletter-2/</link>
 			<pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
 			
@@ -164,7 +225,7 @@ https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm
 		</item>
 		
 		<item>
-			<title>分布所周报 #01 | 金融创新</title>
+			<title>分布所周刊 #01 | 金融创新</title>
 			<link>https://funkyswing.github.io/posts/2020-6-15_newsletter-1/</link>
 			<pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
 			
@@ -254,10 +315,10 @@ Stock Market Disconnect Shows Need For Financial Innovation (Money Reimagined �
 		
 		<item>
 			<title>加密资产 | Erasure 数据交易市场</title>
-			<link>https://funkyswing.github.io/posts/2020-6-7_numerai-unleash-the-power-of-data/</link>
+			<link>https://funkyswing.github.io/posts/2020-6-7_crypto_numerai-unleash-the-power-of-data/</link>
 			<pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
 			
-			<guid>https://funkyswing.github.io/posts/2020-6-7_numerai-unleash-the-power-of-data/</guid>
+			<guid>https://funkyswing.github.io/posts/2020-6-7_crypto_numerai-unleash-the-power-of-data/</guid>
 			<description>“信息是种独特的商品：其创造方式不可预知，只有拥有后才能判断是好是坏。只要拥有的人就可以无成本复制。这就造成市场难以对其进行定价并传播价值。” &amp;ndash; Joel Monegro，Placeholder*
  在社交网络或使用即使通讯工具，随时都有无数信息传播。面对海量信息，我们又无暇验证每条看到的信息真实性。之所以假消息或误导性信息泛滥，就是因为制造成本低。那么有没有一种方式可以遏制不实或假消息的制造，并增加传播成本？去中心化数据交换协议 Erasure 就是要做这样的事情。
 Numerai 的开放式金融数据社区 Erasure 由 Numerai 构建。Numerai 是一家匿名数据科学家社区组成的量化交易对冲基金，2015 年底由数据科学家 Richard Craib 创办。得到对冲基金文艺复兴科技 (Renaissance Technologies) 联合创始人 Howard Morgan，天使投资人 Naval Ravikant 和风投 USV 投资。2017 年在以太坊发行代币 Numeraire (NMR)，用以股市数据预测抵押和奖励。
@@ -531,10 +592,10 @@ Howard Marks 不定期发布备忘录，巴菲特曾评价：“只要在邮件�
 		
 		<item>
 			<title>加密资产 | Brave 商业模式及未来</title>
-			<link>https://funkyswing.github.io/posts/2020-5-27_brave-ads-modeling/</link>
+			<link>https://funkyswing.github.io/posts/2020-5-27_crypto_brave-ads-modeling/</link>
 			<pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
 			
-			<guid>https://funkyswing.github.io/posts/2020-5-27_brave-ads-modeling/</guid>
+			<guid>https://funkyswing.github.io/posts/2020-5-27_crypto_brave-ads-modeling/</guid>
 			<description>Brave 以“隐私”为服务通过浏览器为入口，是目前少有能直接链接到传统互联网的加密资产项目。本文主要介绍其商业模式及未来展望。
 广告模式 Brave 以倡导保护个人隐私，不搜集涉及个人身份、行为、位置等信息，同时能有效投放广告。为保证个人信息只保存在个人设备上，因此目前广告只以设备上推送。
 广告收入 70% 会用到 Brave Rewards，以 BAT 奖励用户。用户可以设定接收或屏蔽广告推送。用户只要观看广告，无需点击任何广告链接，系统便会自动奖励用户。与传统浏览器不同，用户数据经过匿名化处理分类，传送到服务端用以分析（例如点击率、转化率等等）。而且用户可以自选提供哪些数据。
