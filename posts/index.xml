@@ -6,8 +6,103 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://funkyswing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>加密研投 | Genesis Q2 市场报告</title>
+			<link>https://funkyswing.github.io/posts/2020-8-05_genesis-q2-report/</link>
+			<pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://funkyswing.github.io/posts/2020-8-05_genesis-q2-report/</guid>
+			<description>DCG 旗下机构投资者加密资产交易服务商 Genesis 推出 2020 年第二季度报告，对现货交易、借贷市场和衍生品交易市场总结。
+（本文所有单位均为美元）
+   借贷业务新增 22 亿 截至 6 月现有贷款总量 14.2 亿     现货交易 52.5 亿 6 月起衍生品交易量 4 亿    数字资产借贷 Q2 数字资产借贷业务新增 22 亿美元 ，同比增长 324%。现有未偿付贷款超过 10 亿，环比增长 118%。
+贷款组合 Q2 BTC 借贷占比超过 USD，BTC 和 USD 总占比达 83.2%。山寨币借贷市场份额仍旧非常小。
+数字资产交易 Genesis 全球机构对数字资产现货交易 Q2 达 52.5 亿，Q1 40 亿。今年五月推出衍生品交易。一个月期间十种交易品种五十个活跃对手盘交易金额 4 亿。80% 交易额集中在 BTC/USD 交易对。其它还有 DeFi 治理代币期权。
+期权市场万能 Genesis 衍生品市场主要提供期权和远期合约流动性。期权市场满足不同市场需求，解决不同问题。</description>
+			<content type="html"><![CDATA[<p>DCG 旗下机构投资者加密资产交易服务商 Genesis 推出 2020 年第二季度报告，对现货交易、借贷市场和衍生品交易市场总结。</p>
+<p><em>（本文所有单位均为美元）</em></p>
+<table>
+<thead>
+<tr>
+<th align="center">借贷业务新增 22 亿</th>
+<th align="center">截至 6 月现有贷款总量 14.2 亿</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>现货交易 52.5 亿</strong></td>
+<td align="center"><strong>6 月起衍生品交易量 4 亿</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="heading">数字资产借贷</h3>
+<p>Q2 数字资产借贷业务新增 22 亿美元 ，同比增长 324%。现有未偿付贷款超过 10 亿，环比增长 118%。</p>
+<h3 id="heading-1">贷款组合</h3>
+<p>Q2 BTC 借贷占比超过 USD，BTC 和 USD 总占比达 83.2%。山寨币借贷市场份额仍旧非常小。</p>
+<p><img src="/inserted-images/8-05_GenesisQ2_2.jpg" alt="name"></p>
+<h3 id="heading-2">数字资产交易</h3>
+<p>Genesis 全球机构对数字资产现货交易 Q2 达 52.5 亿，Q1 40 亿。今年五月推出衍生品交易。一个月期间十种交易品种五十个活跃对手盘交易金额 4 亿。80% 交易额集中在 BTC/USD 交易对。其它还有 DeFi 治理代币期权。</p>
+<h3 id="heading-3">期权市场万能</h3>
+<p>Genesis 衍生品市场主要提供期权和远期合约流动性。期权市场满足不同市场需求，解决不同问题。</p>
+<table>
+<thead>
+<tr>
+<th align="center">机构</th>
+<th align="center">操作</th>
+<th align="center">说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">对冲基金</td>
+<td align="center">短期投机</td>
+<td align="center">以短期合约表现对市场特定看法</td>
+</tr>
+<tr>
+<td align="center">长期持有者</td>
+<td align="center">收益</td>
+<td align="center">卖出看涨期权赚取收益</td>
+</tr>
+<tr>
+<td align="center">基金投资者</td>
+<td align="center">跌势对冲</td>
+<td align="center">用看跌期权降低跌势β</td>
+</tr>
+<tr>
+<td align="center">矿工</td>
+<td align="center">未来现金流对冲</td>
+<td align="center">对冲收入流、收支表或未来现金流</td>
+</tr>
+<tr>
+<td align="center">借/贷</td>
+<td align="center">抵押管理</td>
+<td align="center">使用利率上下限对冲加密资产抵押价值</td>
+</tr>
+<tr>
+<td align="center">交易机构</td>
+<td align="center">基础投机</td>
+<td align="center">表示对期货/现货价差的看法</td>
+</tr>
+<tr>
+<td align="center">个人投资者</td>
+<td align="center">长期投资</td>
+<td align="center">出售期权以现货折价累积资产仓位</td>
+</tr>
+</tbody>
+</table>
+<h3 id="heading-4">借贷、看涨期权卖出和流动性挖矿是主要收益来源</h3>
+<p>Q2 尤其是六月借贷市场迅猛增长。截至 6 月 30 日放贷者数量月环比增长 24%。六月利息是 12 个月利息总额的 19%。借贷年化利率 6% - 12% 之间。</p>
+<p><img src="/inserted-images/8-05_GenesisQ2_3.jpg" alt="name"></p>
+<p>三月市场大跌后，以虚值卖出看涨期权 (OTM call options) 套利增多。</p>
+<p>DeFi 利用协议内原生代币奖励用户。本质上与 Uber、滴滴早期抢占市场补贴用户一个道理，可在系统内形成回馈环。DeFi Yield Farming 尤其刺激借贷市场需求面。</p>
+<hr>
+<h3 id="genesis-">Genesis 简介</h3>
+<p>2013 年开始比特币 OTC 场外交易。之后业务扩展为机构和个人投资者加密资产现货交易、借贷服务和衍生品交易市场。</p>
+<p>报告原文下载地址：<a href="https://genesistrading.com/wp-content/uploads/2020/08/Genesis-2020-Q2-Market-Observations.pdf?utm_medium=email&amp;_hsmi=92588956&amp;_hsenc=p2ANqtz-8fuXmaWMqkXe0orUBtt2cJyx1l6sZ2ZPV8ZzwB4hL8TUs62lw9ZvSViD3vUPSbKg0dBnD-kuyMdOrFFpu5MbEy66DouQ&amp;utm_content=92588956&amp;utm_source=hs_email">链接</a></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>分布所周刊 #08 |  牛市是否还有</title>

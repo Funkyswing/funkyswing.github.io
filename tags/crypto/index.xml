@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>加密研投 | Genesis Q2 市场报告</title>
+      <link>https://funkyswing.github.io/posts/2020-8-05_genesis-q2-report/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-8-05_genesis-q2-report/</guid>
+      <description>DCG 旗下机构投资者加密资产交易服务商 Genesis 推出 2020 年第二季度报告，对现货交易、借贷市场和衍生品交易市场总结。
+（本文所有单位均为美元）
+   借贷业务新增 22 亿 截至 6 月现有贷款总量 14.2 亿     现货交易 52.5 亿 6 月起衍生品交易量 4 亿    数字资产借贷 Q2 数字资产借贷业务新增 22 亿美元 ，同比增长 324%。现有未偿付贷款超过 10 亿，环比增长 118%。
+贷款组合 Q2 BTC 借贷占比超过 USD，BTC 和 USD 总占比达 83.2%。山寨币借贷市场份额仍旧非常小。
+数字资产交易 Genesis 全球机构对数字资产现货交易 Q2 达 52.5 亿，Q1 40 亿。今年五月推出衍生品交易。一个月期间十种交易品种五十个活跃对手盘交易金额 4 亿。80% 交易额集中在 BTC/USD 交易对。其它还有 DeFi 治理代币期权。
+期权市场万能 Genesis 衍生品市场主要提供期权和远期合约流动性。期权市场满足不同市场需求，解决不同问题。</description>
+    </item>
     
     <item>
       <title>加密资产 | Erasure 数据交易市场</title>

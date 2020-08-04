@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>加密研投 | Genesis Q2 市场报告</title>
+      <link>https://funkyswing.github.io/posts/2020-8-05_genesis-q2-report/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-8-05_genesis-q2-report/</guid>
+      <description>DCG 旗下机构投资者加密资产交易服务商 Genesis 推出 2020 年第二季度报告，对现货交易、借贷市场和衍生品交易市场总结。
+（本文所有单位均为美元）
+   借贷业务新增 22 亿 截至 6 月现有贷款总量 14.2 亿     现货交易 52.5 亿 6 月起衍生品交易量 4 亿    数字资产借贷 Q2 数字资产借贷业务新增 22 亿美元 ，同比增长 324%。现有未偿付贷款超过 10 亿，环比增长 118%。
+贷款组合 Q2 BTC 借贷占比超过 USD，BTC 和 USD 总占比达 83.2%。山寨币借贷市场份额仍旧非常小。
+数字资产交易 Genesis 全球机构对数字资产现货交易 Q2 达 52.5 亿，Q1 40 亿。今年五月推出衍生品交易。一个月期间十种交易品种五十个活跃对手盘交易金额 4 亿。80% 交易额集中在 BTC/USD 交易对。其它还有 DeFi 治理代币期权。
+期权市场万能 Genesis 衍生品市场主要提供期权和远期合约流动性。期权市场满足不同市场需求，解决不同问题。</description>
+    </item>
     
     <item>
       <title>分布所周刊 #08 |  牛市是否还有</title>
@@ -168,29 +182,6 @@ Numerai 的开放式金融数据社区 Erasure 由 Numerai 构建。Numerai 是�
 Numerai 因此而诞生。Numerai 开放股票市场数据，数据科学家应用机器学习算法预测股票未来价格。参与者抵押一定 NMR 代币，智能合约锁定。抵押代币多少代表对自身预测结果的信心程度。预测结果越准确，获得相应的奖励越高。相反，如预测结果偏差过大，Numerai 可以对其进行惩罚。按照预设比例，以一定小金额价值代币燃烧对方大金额代币。例如惩罚比例是 0.1 ，Numerai 可自己燃烧 1 个 NMR 燃烧对方 10 个 NMR。燃烧就是“删除键”，将你我的钱都消失。
  二十一实际最有价值的对冲基金会将网络效应融入到资本分配中。 &amp;ndash; Richard Craib，Numerai 创始人
  Numerai 的创新之处就是有“价值抵押的数据”能更加保证数据质量。数据科学家通过挖掘数据结果获得奖励，提供数据行为更像是一种共识行为，或者可以称为“智力证明” (Proof of intelligence)。自 2017 开始 Numeraire 就是以太坊应用最多的代币之一。数据科学家不仅愿意用自己的有价值数据换得加密货币，也愿意对自己的信息进行价值抵押。保证信息质量同时，更有利于基金在匿名网络分配资金。如果有人愿意对自己的数据结果进行抵押，会有人更放心购买，风险共担的市场促进优质信息传播。</description>
-    </item>
-    
-    <item>
-      <title>投资哲学 | 面对变幻莫测的世界</title>
-      <link>https://funkyswing.github.io/posts/2020-6-3_howard-marks-on-uncertainty/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/posts/2020-6-3_howard-marks-on-uncertainty/</guid>
-      <description>(摄于首都美术馆)
- tl;dr:
- 认识到自己知识的局限性 谦卑，是投资必备品质  本文是橡树资本管理公司 (Oaktree Capital Management) 联合创始人兼董事会主席 Howard Stanley Marks 5 月 11 日发表的一份备忘录。主要谈及作为投资者如何面对充满不确定性的世界。文章充满作者的投资哲学和智慧。
-Howard Marks 在 2007 - 2008 年经济危机大肆收购不良资产，收益颇丰。
-Howard Marks 不定期发布备忘录，巴菲特曾评价：“只要在邮件中看到 Howard Marks 的备忘录，我会第一时间打开。我总能从中有所收获，读他的书更是事半功倍。”
-其曾出版三本书：《投资最重要的事》、《详解投资最重要的事》和《掌握市场周期》。
- 作者：Howard Marks 编译：楊小猴
-我们对未来一无所知 我们现在所经历的前所未有，表现在四种事件：疫情；经济萎缩；石油价格崩盘；和政府反应。有很多方面会让未来无法预料。
-  经济学并非“真正的科学”，不是“如果甲发生，就会出现乙结果”。经济学只有可能会出现的趋势模型，而这些模型也只是历史事件，有逻辑性，得到观测，但也仅是趋势而已。
-  我们做判断的依据可分为，1) 事实；2) 对历史经验的逻辑推导； 3) 猜测。由于经济学并非精确的科学，很多经济学家和投资者会根据历史经验推导现在和未来。但这些推导结果最不可靠，多数情况下这些结论只能是“猜测”。
-  我频繁会问自己“这次市场会是 V 型反转、U 型 W 型底还是 L 型走势？”，“我所经历的哪次危机与这次比较像？”。要回答这些问题就需要从历史的角度来看。
-  我们今天所经历的几乎没有历史与现在相似。就是没有历史模型可供推导未来。你要是从来没有经历过某件事，你就不会知道未来到底会怎样。
-  今天所经历的罕有事件会让预测变得非常困难，四种情况同时出现，预测几乎不可能。除了四个独立事件难以理解外，我们也不清楚这几个事件如何相互作用，例如：
-· 政府多方面巨额贷款、体恤金、刺激计划、购买债券是否足以抵消抗击 Covid-19 对经济造成的巨大损失？
-· 多大程度上取消封城会恢复经济活动？多大程度上又会造成病毒二次传播，再次封城？</description>
     </item>
     
   </channel>
