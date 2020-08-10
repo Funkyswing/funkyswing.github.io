@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>分布所周刊 #09 | 为什么还在涨</title>
+      <link>https://funkyswing.github.io/posts/2020-8-10_newsletter-9/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-8-10_newsletter-9/</guid>
+      <description>DAO；DeFi 聚合器；yearn.finance 安全；交易所漏洞；OKCoin 支持比特币核心开发员；神秘公司做空原油；霍华德·马克斯市场观点；贝尔实验室；中美欧印互联网
+ 上周不仅 Uniswap、Dapper Labs 获得融资，DeFi 系 REN、LEND、BAL、SNX 仍旧是市场宠儿，语言机系 LINK、BAND、NEST 也获得瞩目。
+本周市场数据 比特币占比保持在 61% 上下
+恐惧贪婪指数极度贪婪
+波动率仍旧偏低
+BTC 与黄金和标普近半年重合度偏高
+移动支付服务商 Square 第二季度 BTC 交易量增长 186%
+Super Rare 加密艺术品交易市场今年交易量增加快速，七月达累计 160 万
+区块链 # - 去中心化治理是创新还是模仿？DAO (去中心化自治组织) 四年前诞生之初，以革命性治理方式示人。标榜极度透明，以代码替代传统决策程序，能让社会组织更加高效协作。甚至去中心化自治组织替代公司，迎来利益相关者获得更多权力的民主形态。但事实的目前的 DAO 治理更像中心化治理，与传统公司治理无异。目前加密社区治理由三种：一，创始人决策。就像私营公司一样，这样的初创项目创始人有绝对发言权，这类形式有个光鲜的名字“终身仁慈独裁者” (BDFL)；二，委员会控制。诸多 Layer-1 公链都是这类治理方式，例如比特币、以太坊、Grin 等等。协议治理权由核心开发者决策；三，代议民主或流民主。但这两种实质与传统某些国家治理和公司治理无异，算不上创新。
+DAO 将股东换成币东 (持币人😄)。管理用代码替换了人。实际上 DAO 提高了流民主/代理投票治理效率。有些加密货币治理更像是合作社。运动品牌 REI 在这方面有所成功。但合作社形式组织效率低。目前来看去中心化治理仍旧沿袭传统治理方式。[Dragonfly 研究(英文)] [链闻]
+# - yearn.finance 的安全。yearn 是一家 DeFi 聚合器。可以类比为一支基金，任何人可以无限制投入参与。创始人 Andre Cronje 管理 vault 资金有安全风险，社区投票采用 9 签名 6 解锁的多签方式，由社区成员共同管理 vault。Andre 也表示多人管理会造成出现合约漏洞反应慢，策略变更繁琐，难以适应市场变化。[链接]</description>
+    </item>
     
     <item>
       <title>分布所周刊 #08 |  牛市是否还有</title>

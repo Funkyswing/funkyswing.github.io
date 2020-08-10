@@ -7,15 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>分布所周刊 #09 | 为什么还在涨</title>
+      <link>https://funkyswing.github.io/posts/2020-8-10_newsletter-9/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-8-10_newsletter-9/</guid>
+      <description>DAO；DeFi 聚合器；yearn.finance 安全；交易所漏洞；OKCoin 支持比特币核心开发员；神秘公司做空原油；霍华德·马克斯市场观点；贝尔实验室；中美欧印互联网
+ 上周不仅 Uniswap、Dapper Labs 获得融资，DeFi 系 REN、LEND、BAL、SNX 仍旧是市场宠儿，语言机系 LINK、BAND、NEST 也获得瞩目。
+本周市场数据 比特币占比保持在 61% 上下
+恐惧贪婪指数极度贪婪
+波动率仍旧偏低
+BTC 与黄金和标普近半年重合度偏高
+移动支付服务商 Square 第二季度 BTC 交易量增长 186%
+Super Rare 加密艺术品交易市场今年交易量增加快速，七月达累计 160 万
+区块链 # - 去中心化治理是创新还是模仿？DAO (去中心化自治组织) 四年前诞生之初，以革命性治理方式示人。标榜极度透明，以代码替代传统决策程序，能让社会组织更加高效协作。甚至去中心化自治组织替代公司，迎来利益相关者获得更多权力的民主形态。但事实的目前的 DAO 治理更像中心化治理，与传统公司治理无异。目前加密社区治理由三种：一，创始人决策。就像私营公司一样，这样的初创项目创始人有绝对发言权，这类形式有个光鲜的名字“终身仁慈独裁者” (BDFL)；二，委员会控制。诸多 Layer-1 公链都是这类治理方式，例如比特币、以太坊、Grin 等等。协议治理权由核心开发者决策；三，代议民主或流民主。但这两种实质与传统某些国家治理和公司治理无异，算不上创新。
+DAO 将股东换成币东 (持币人😄)。管理用代码替换了人。实际上 DAO 提高了流民主/代理投票治理效率。有些加密货币治理更像是合作社。运动品牌 REI 在这方面有所成功。但合作社形式组织效率低。目前来看去中心化治理仍旧沿袭传统治理方式。[Dragonfly 研究(英文)] [链闻]
+# - yearn.finance 的安全。yearn 是一家 DeFi 聚合器。可以类比为一支基金，任何人可以无限制投入参与。创始人 Andre Cronje 管理 vault 资金有安全风险，社区投票采用 9 签名 6 解锁的多签方式，由社区成员共同管理 vault。Andre 也表示多人管理会造成出现合约漏洞反应慢，策略变更繁琐，难以适应市场变化。[链接]</description>
+    </item>
+    
+    <item>
       <title>加密研究 | 什么是 DeFi？</title>
       <link>https://funkyswing.github.io/posts/2020-8-09_what-is-defi/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://funkyswing.github.io/posts/2020-8-09_what-is-defi/</guid>
       <description>「幸好这个国家的人多半不懂银行体系。要是懂，我相信明早就会看到革命。」
@@ -171,26 +190,6 @@ https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm
 如果跟互联网相比，DeFi 大概就像二十年之前的互联网，只有少数一些爱好者交流关注。相信 DeFi 总会为传统金融世界打开一扇窗，让所有人感受到去中心化的力量。这个市场也会生长出更具价值增长的产品，而不仅仅是昙花一现的零和游戏。但所有这些都需要时间。在这之前我们不妨来加深理解 DeFi。
 # - 密码朋克简史 (作者：Dion Dalton-Bridges)
 数字时代的个人隐私，一直是密码朋克关注的重点。从David Chaum 到 Wei Dai、Hal Finney、Nick Szabo、Adam Back 到中本聪，从密码朋克邮件列表到比特币，再到以太坊。作者简述密码朋克发展和加密货币之间的紧密联系。</description>
-    </item>
-    
-    <item>
-      <title>分布所周刊 #01 | 金融创新</title>
-      <link>https://funkyswing.github.io/posts/2020-6-15_newsletter-1/</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/posts/2020-6-15_newsletter-1/</guid>
-      <description>早就有想更新 Newsletter 的想法。先做一个尝试，定期更新最近读到的业内动态和资讯。
-区块链 1 - 纽约时报：区块链是否会成为解决网络假消息泛滥的解决方案？
-Could Blockchain Be a Solution to the Issue of Misinformation Online?
-纽约时报技术团队正在探索解决网络假消息泛滥问题的解决方案。例如图片一旦在网络上传开，缺少背景信息，很容易被用作误导性传播假消息。
-区块链的分布式账本技术 (DLT) 的信息不可篡改性，可溯源性恰好是解决这一问题的天然方案。
-但是在应用区块链技术在技术领域前有几个问题也要解决。
- 链上内容需获得网络用户审核。但是智能合约的验证规则复杂。 网络图片一定要与原始版本匹配。社交媒体及新闻网站难以接入区块链验证图片 ID。 区块链网络一定要开放，新组织可以随时接入。  2 - Coindesk：《股市与经济脱钩，需要金融创新》
-Stock Market Disconnect Shows Need For Financial Innovation (Money Reimagined 专栏 CCO Michael J. Case)
-(Newsletter 订阅地址：https://www.coindesk.com/newsletters)
-在美联储财政和货币政策刺激下，在失业申报人数不断增加情况下，从三月底至今美股标普 500 反弹超 30%。再次证明目前资本市场资源错配，加剧不平衡。是时候再仔细研究 ICO 。
-尽管 2016 ~ 2017 年 1CO 热潮引来很多骗局，利用信息不对称造成投资者损失。但这并不意味着 ICO 没有好处。
- ICO 可以让更多人加入到创新投资中，而不是未来保护特权投资基金和少数投资者。 利用得当可以将资金配置给真正有需要的创新者。 公平分配财富。让创新的财富分配给更多大众，而不是少数投资者获得巨额财富。  由于华尔街有过度政治利益，阻碍创新。这是结构性问题。</description>
     </item>
     
   </channel>
