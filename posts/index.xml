@@ -6,8 +6,51 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://funkyswing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>分布所周刊 #10 | 前奏还是尾曲</title>
+			<link>https://funkyswing.github.io/posts/2020-8-16_newsletter-10/</link>
+			<pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://funkyswing.github.io/posts/2020-8-16_newsletter-10/</guid>
+			<description>加密原生保险；Dex 高额套利；美联储实验数字货币；Zcash 没人用；监管；UBI；斯诺登特赦
+ 本周动态 Yam 失败
+Curve 推出代币 CRV
+Aave 宣布 V2 版本
+继著名对冲基金投资人 Paul Tudor Jones 投资比特币后，纳斯达克上市公司 MicroStrategy 将其一半现金储备投资比特币，现持有超 2,100 枚
+以太坊交易费本周创历史新高
+区块链 # - 加密原生保险。保险是金融市场重要对冲工具，在衍生品市场有特殊价值。建立去中心化保险协议可以完善市场，扩大市场需求，但也存在难度。Nexus Mutual 与 Opyn 是目前有少有的团队在这方面做出探索。
+[链闻]
+# - Dex 高额套利。8 月 10 日有交易员使用 USDT 和 USDC 在 Uniswap、Curve 和 dYdX 短短几分钟完成高额套利交易。4.5 万美元投入获得 4 万美元收益。套利流程：1. 交易员用 4.5 万 USDC 在 dYdX 借贷 40.5 万美元，总额 45 万 USDC；2. 利用稳定币差价在 Uniswap 兑换 49.2 万 USDT；3. 49.</description>
+			<content type="html"><![CDATA[<blockquote>
+<p>加密原生保险；Dex 高额套利；美联储实验数字货币；Zcash 没人用；监管；UBI；斯诺登特赦</p>
+</blockquote>
+<h3 id="heading"><strong>本周动态</strong></h3>
+<p>Yam 失败</p>
+<p>Curve 推出代币 CRV</p>
+<p>Aave 宣布 V2 版本</p>
+<p>继著名对冲基金投资人 Paul Tudor Jones 投资比特币后，纳斯达克上市公司 <a href="https://polylunar.com/2020/08/why-microstrategy-bought-21-thousand-bitcoin/">MicroStrategy</a> 将其一半现金储备投资比特币，现持有超 2,100 枚</p>
+<p>以太坊交易费本周创历史新高</p>
+<p><img src="/inserted-images/8-17_1.jpg" alt="NL-1_2"></p>
+<h3 id="heading-1">区块链</h3>
+<p><strong><em># -</em></strong> <strong>加密原生保险</strong>。保险是金融市场重要对冲工具，在衍生品市场有特殊价值。建立去中心化保险协议可以完善市场，扩大市场需求，但也存在难度。Nexus Mutual 与 Opyn 是目前有少有的团队在这方面做出探索。</p>
+<p><a href="https://mp.weixin.qq.com/s/OBlZEYmrr8HoP1vA7z21Ig">[链闻]</a></p>
+<p><strong><em># -</em></strong> <strong>Dex 高额套利</strong>。8 月 10 日有交易员使用 USDT 和 USDC 在 Uniswap、Curve 和 dYdX 短短几分钟完成高额套利交易。<strong>4.5 万美元投入获得 4 万美元收益</strong>。套利流程：1. 交易员用 4.5 万 USDC 在 dYdX 借贷 40.5 万美元，总额 45 万 USDC；2. 利用稳定币差价在 Uniswap 兑换 49.2 万 USDT；3. 49.2 万 USDT 在 Curve 兑换为等值 USDC；4. 支付 dYdX 的 40.5 万 USDC 借贷，余额 8.7 万 USDC；5. 交易手续费 2,000 美元。<a href="https://www.coindesk.com/first-mover-how-a-defi-trader-made-an-89-profit-in-minutes-slinging-stablecoins?amp=1&amp;__twitter_impression=true&amp;s=09">[链接]</a></p>
+<p><img src="/inserted-images/8-17_2.jpg" alt="NL-1_2"></p>
+<p><strong><em># -</em></strong> <strong>美联储实验数字货币</strong>。美联储公布 2019 年基于分布式账本技术 (DLT) 的基于 Hyperledger Fabric 支付系统实验。并宣布与 MIT 合作探索央行数字货币。名为“FooWire”的实验为许可式系统，网络假定有三种机构加入，央行、政府机构和商业银行。美联储今后几年会持续研究可行性与风险。[链接]](<a href="https://www.theblockcrypto.com/linked/74952/federal-reserve-foowire-dlt-test">https://www.theblockcrypto.com/linked/74952/federal-reserve-foowire-dlt-test</a>)</p>
+<p><strong><em># -</em></strong> <strong>Zcash 报告</strong>：隐私强，但没人用。目前多数隐私项目仍处于研究阶段而非实用。老牌隐私项目 zcash 也是如此。虽然资金充足，但技术进展缓慢。十一月减半或许可以带来一次投机潮。[链接]](<a href="https://simetri.cryptobriefing.com/zcash-digital-asset-report-update">https://simetri.cryptobriefing.com/zcash-digital-asset-report-update</a>)</p>
+<p><strong><em># -</em></strong> <strong>甭想蒙 SEC</strong>。目前没有哪个国家对代币或任何加密资产做出明确定义。这影响到适用监管法律、税务等。如果代币有多种功能，可以定义为功能性代币 (utility token) 而非证券。但另一方面代币也要通过<a href="https://www.investopedia.com/terms/h/howey-test.asp">豪威测试</a> (Howey test) 。随着市场回暖，更多项目融资，ICO 重回市场，监管总会出手。[链接]](<a href="https://hackernoon.com/dont-test-the-sec-declare-as-utility-or-a-security-oy2v3xfm?source=rss">https://hackernoon.com/dont-test-the-sec-declare-as-utility-or-a-security-oy2v3xfm?source=rss</a>)</p>
+<p><strong><em># -</em></strong> <strong>零知识证明与信息理论证明差异</strong>。零知识证明系统各类技术差异。</p>
+<p><a href="https://zkproof.org/2020/08/12/information-theoretic-proof-systems/?from=groupmessage">[链接]</a></p>
+<h3 id="heading-2">金融</h3>
+<p><strong><em># -</em></strong> <strong>全民基本收入 (UBI) 是资本主义 2.0</strong>。随着经济增长放缓，UBI 或许是为未来提高社会基本福利，进一步提升经济发展的方式。[链接]](<a href="https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/">https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/</a>)</p>
+<p><strong><em># -</em></strong> <strong>粮食危机</strong>。联合国今年发布关于粮食问题两篇报告。[《2020 年联合国粮食危机报告》]](<a href="https://docs.wfp.org/api/documents/WFP-0000114546/download/?_ga=2.259323722.1396681784.1594047665-547583090.1594047665">https://docs.wfp.org/api/documents/WFP-0000114546/download/?_ga=2.259323722.1396681784.1594047665-547583090.1594047665</a>) <a href="http://www.fao.org/3/ca9509en/CA9509EN.pdf">粮农组织《全球粮食市场双年报告》</a></p>
+<h3 id="heading-3">科技</h3>
+<p><strong><em># -</em></strong> <strong>赦免斯诺登</strong>。爱德华 · 斯诺登前 NSA 雇员，2013 年泄露 NSA 互联网监控项目“棱镜计划”而前往俄罗斯政治庇护。周六美总统川普说考虑对斯诺登特赦。斯诺登律师说不仅得特赦，还得撤销所有对其指控。[链接]](<a href="https://www.reuters.com/article/us-usa-politics-snowden/trump-says-hes-considering-pardon-for-leaker-edward-snowden-idUSKCN25B10Z">https://www.reuters.com/article/us-usa-politics-snowden/trump-says-hes-considering-pardon-for-leaker-edward-snowden-idUSKCN25B10Z</a>)</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>分布所周刊 #09 | 为什么还在涨</title>
@@ -87,7 +130,8 @@ DAO 将股东换成币东 (持币人😄)。管理用代码替换了人。实际
 DeFi 更灵活和透明。智能合约多数开源，具有跨应用互操作性。代码可验证，用户可根据自己需求选择服务。
 DeFi 的特点 相对于传统金融，去中心化金融有无可替代的优势。
  去中心化。DeFi 的业务不依靠任何机构或个人，无单点故障。规则写在智能合约代码内，DApp 部署在链上，无需人工干预就可执行。尽管实际上需要开发者维护或修补漏洞。 透明。所有区块链上 DApp 代码公开，任何人都可以审计。建立与中心化服务完全不同的信任机制。用户有机会在完全了解智能合约功能、是否有 bug 情况后使用。所有链上交易公开可查。交易地址假名不与真实身份连接一定程度保护隐私。随着密码学技术发展，还会有更好保证隐私的 DApp 出现。 无界限。从设计开始 DApp 就无国界限制。无论身处何处，大家都可享同一服务和网络。 无需许可。任何人都可以创建或使用 DeFi 服务。传统金融服务需要中间方以盈利目的来提供服务，会以国籍、身份、地位、财富等条件来筛选客户。DeFi 可以做到“无审查性”、“无歧视”，让困地区人口可以同样享受到普惠性金融服务。 金融主权。你的私钥你的资产。DeFi 服务没有第三方违约风险。资产所有权真正属于自己。 低摩擦。无第三方可以降低手续费、佣金等中间成本。支持微型或小额交易。 互操作性。DeFi 不同应用间互相兼容，可以跨应用使用服务。DApp 的搭建就像乐高一样。稳定币、去中心化交易所、预测市场可以融合为新产品。 使用灵活。如果想使用某个服务，不想使用某个应用怎么办？没问题！可以自建 DApp 或选择其他同类 DApp。  DeFi 的应用前景 借贷作为传统金融的基石，自然也是 DeFi 的基础应用。开放式借贷协议是 DeFi 的最流行基础应用。这些服务建立在公链之上，降低信任需求，密码学方法验证保证安全。对手风险减少、成本降低。除此之外，相对传统信贷，开放去中心化的借贷服务还有有诸多优势。例如无信用审核、数字资产抵押、即时结算… 未来有可能标准化。</description>
-			<content type="html"><![CDATA[<blockquote>
+			<content type="html"><![CDATA[<p><img src="/inserted-images/DeFi.jpg" alt="name"></p>
+<blockquote>
 <p><em>「幸好这个国家的人多半不懂银行体系。要是懂，我相信明早就会看到革命。」</em></p>
 <p><em>— 亨利 · 福特</em></p>
 </blockquote>

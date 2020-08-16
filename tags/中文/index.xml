@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>分布所周刊 #10 | 前奏还是尾曲</title>
+      <link>https://funkyswing.github.io/posts/2020-8-16_newsletter-10/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-8-16_newsletter-10/</guid>
+      <description>加密原生保险；Dex 高额套利；美联储实验数字货币；Zcash 没人用；监管；UBI；斯诺登特赦
+ 本周动态 Yam 失败
+Curve 推出代币 CRV
+Aave 宣布 V2 版本
+继著名对冲基金投资人 Paul Tudor Jones 投资比特币后，纳斯达克上市公司 MicroStrategy 将其一半现金储备投资比特币，现持有超 2,100 枚
+以太坊交易费本周创历史新高
+区块链 # - 加密原生保险。保险是金融市场重要对冲工具，在衍生品市场有特殊价值。建立去中心化保险协议可以完善市场，扩大市场需求，但也存在难度。Nexus Mutual 与 Opyn 是目前有少有的团队在这方面做出探索。
+[链闻]
+# - Dex 高额套利。8 月 10 日有交易员使用 USDT 和 USDC 在 Uniswap、Curve 和 dYdX 短短几分钟完成高额套利交易。4.5 万美元投入获得 4 万美元收益。套利流程：1. 交易员用 4.5 万 USDC 在 dYdX 借贷 40.5 万美元，总额 45 万 USDC；2. 利用稳定币差价在 Uniswap 兑换 49.2 万 USDT；3. 49.</description>
+    </item>
     
     <item>
       <title>分布所周刊 #09 | 为什么还在涨</title>
@@ -169,27 +186,6 @@ https://blog.google/products/admanager/display-buying-share-revenue-publishers?u
 # - 新闻媒体如何使用 Ad Manager 赚钱
 https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm_source=Benedict%27s+Newsletter&amp;amp;utm_campaign=8b12bef661-Benedict%27s+Newsletter+342&amp;amp;utm_medium=email&amp;amp;utm_term=0_4999ca107f-8b12bef661-71125142&amp;amp;mc_cid=8b12bef661&amp;amp;mc_eid=efbb1c6f17
 这两篇讲解 Google Ad Manager 如何与广告展示媒体分成。</description>
-    </item>
-    
-    <item>
-      <title>分布所周刊 #02 | DeFi 可以变革金融吗</title>
-      <link>https://funkyswing.github.io/posts/2020-6-22_newsletter-2/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/posts/2020-6-22_newsletter-2/</guid>
-      <description>「慢与记忆之间，速度与遗忘之间，冥冥之中存在着某种联系。」
-（There is a secret bond between slowness and memory, between speed and forgetting.）
-&amp;ndash; 米兰 · 昆德拉 (Milan Kundera)
-  如今，信息像病毒一样以我们不可感知的速度繁衍传播。一则新闻可以瞬时传遍所有社交媒体和网络媒体。兴奋、失落、恐慌…种种情绪也会像病毒一样传染。一条假消息可以带来集体失控。一条新闻可以让一支垃圾股疯狂。即便集体民意的反弹，面对强权还是那么无力。每天世界上演的每一出现实剧目都难免超出我们的理解。我们发现，自己还未从曾经的桎梏中解放，却已变成信息的奴隶。
-互联网时代
-于我，阅读越来越少，日常的“看”、“浏览”像呼吸一样随意且无意识。那么我把日常所见记录下来，变成一句话，一段文字。至少这也算是对日常机械化和无意识生活的一种抵抗。
-信息快速传递的一个好处就是，我在输入的同时可以同步输出。也就是我“看“到的同时可以同步输出我所“见”的感受。而我的输出可以变成其他人的“看”，其他人则再会有他们各自的所“见”。
-这就是我写这个周报的目的，将我所见所想传递出去。一起去探索理解这个复杂难以捉摸的世界。
-区块链 # - 链文 - 说透当红 Compound 借贷即挖矿，图解数字资产数据全景
-这周 DeFi 太火。以太坊链上去中心化借贷平台 Compound 以抵押 15 亿美元数字资产夺得以太坊最有价值应用。但目前来看 DeFi 并未吸引很多圈外注意力，也没有像 2017 年 ICO 热潮吸引众多 VC。
-如果跟互联网相比，DeFi 大概就像二十年之前的互联网，只有少数一些爱好者交流关注。相信 DeFi 总会为传统金融世界打开一扇窗，让所有人感受到去中心化的力量。这个市场也会生长出更具价值增长的产品，而不仅仅是昙花一现的零和游戏。但所有这些都需要时间。在这之前我们不妨来加深理解 DeFi。
-# - 密码朋克简史 (作者：Dion Dalton-Bridges)
-数字时代的个人隐私，一直是密码朋克关注的重点。从David Chaum 到 Wei Dai、Hal Finney、Nick Szabo、Adam Back 到中本聪，从密码朋克邮件列表到比特币，再到以太坊。作者简述密码朋克发展和加密货币之间的紧密联系。</description>
     </item>
     
   </channel>

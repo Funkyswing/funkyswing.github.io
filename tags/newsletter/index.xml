@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>分布所周刊 #10 | 前奏还是尾曲</title>
+      <link>https://funkyswing.github.io/posts/2020-8-16_newsletter-10/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-8-16_newsletter-10/</guid>
+      <description>加密原生保险；Dex 高额套利；美联储实验数字货币；Zcash 没人用；监管；UBI；斯诺登特赦
+ 本周动态 Yam 失败
+Curve 推出代币 CRV
+Aave 宣布 V2 版本
+继著名对冲基金投资人 Paul Tudor Jones 投资比特币后，纳斯达克上市公司 MicroStrategy 将其一半现金储备投资比特币，现持有超 2,100 枚
+以太坊交易费本周创历史新高
+区块链 # - 加密原生保险。保险是金融市场重要对冲工具，在衍生品市场有特殊价值。建立去中心化保险协议可以完善市场，扩大市场需求，但也存在难度。Nexus Mutual 与 Opyn 是目前有少有的团队在这方面做出探索。
+[链闻]
+# - Dex 高额套利。8 月 10 日有交易员使用 USDT 和 USDC 在 Uniswap、Curve 和 dYdX 短短几分钟完成高额套利交易。4.5 万美元投入获得 4 万美元收益。套利流程：1. 交易员用 4.5 万 USDC 在 dYdX 借贷 40.5 万美元，总额 45 万 USDC；2. 利用稳定币差价在 Uniswap 兑换 49.2 万 USDT；3. 49.</description>
+    </item>
     
     <item>
       <title>分布所周刊 #09 | 为什么还在涨</title>
