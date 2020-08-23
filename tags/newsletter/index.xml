@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>分布所周刊 #11 | 实验游戏</title>
+      <link>https://funkyswing.github.io/posts/2020-8-24_newsletter-11/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-8-24_newsletter-11/</guid>
+      <description>本周动态 yearn.finance 推出 yInsurance 保险代币服务
+Yam V2 迁移成功
+dYdX 与 Starkware 合作扩展 L2 提供永续期货
+去中心化交易所 1inch.excahnge 推出代币激励，流动性挖矿奖励占 2%，VC、创始人、顾问团奖励占 50%
+区块链 # - Andre Cronje 访谈。理解 Andre Cronje 创造 Yearn 背后的逻辑和投资哲学。[链接]
+# - 风险投资准则。成功投资必定有一套完整的方法论和哲学。来学习 Pantera 的风投准则。[链接]
+# - Ampleforth 波动。$ampl 的 Rebase 根据价格波动调弹性整供应量，被很多项目模仿。短期投机无法长久维持。长期应用围绕 UoA、MoE、SoV 才能成为流通货币。[链接]
+# - 区块链协议入门。从头学习区块链协议。[链接]
+# - Uniswap 元素拆解。去中心化流动性提供；固定费用；始终报价；常数乘积定价函数。Uniswap 融合四大功能。如果拆开，DEX 可能会异常繁荣。[链接]
+# - DAO 贿选。前几天 Andre Cronje 发推在问哪个协议会出现贿选的问题。目前很多协议的治理代币集中，似乎这种问题总会出现。这篇两年前的文章值得一读。[链接]
+# - Decentraland。这算是推荐的一个游戏。[链接]
+金融 # - 量化宽松与通胀。为什么近十年的量化宽松，央行印钞没有带来大幅通胀，这成了经济学家的难题。[链接] [链接]
+# - 美失业申请人数再超百万。如果经济短期没有复苏迹象，那么美联储会不会继续低利率 QE 政策。未来货币政策对股市和商品市场以及我们的生活会有很大影响。[链接]</description>
+    </item>
     
     <item>
       <title>分布所周刊 #10 | 前奏还是尾曲</title>
@@ -169,26 +190,6 @@ https://blog.google/products/admanager/news-publishers-make-money-ad-manager?utm
 如果跟互联网相比，DeFi 大概就像二十年之前的互联网，只有少数一些爱好者交流关注。相信 DeFi 总会为传统金融世界打开一扇窗，让所有人感受到去中心化的力量。这个市场也会生长出更具价值增长的产品，而不仅仅是昙花一现的零和游戏。但所有这些都需要时间。在这之前我们不妨来加深理解 DeFi。
 # - 密码朋克简史 (作者：Dion Dalton-Bridges)
 数字时代的个人隐私，一直是密码朋克关注的重点。从David Chaum 到 Wei Dai、Hal Finney、Nick Szabo、Adam Back 到中本聪，从密码朋克邮件列表到比特币，再到以太坊。作者简述密码朋克发展和加密货币之间的紧密联系。</description>
-    </item>
-    
-    <item>
-      <title>分布所周刊 #01 | 金融创新</title>
-      <link>https://funkyswing.github.io/posts/2020-6-15_newsletter-1/</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/posts/2020-6-15_newsletter-1/</guid>
-      <description>早就有想更新 Newsletter 的想法。先做一个尝试，定期更新最近读到的业内动态和资讯。
-区块链 1 - 纽约时报：区块链是否会成为解决网络假消息泛滥的解决方案？
-Could Blockchain Be a Solution to the Issue of Misinformation Online?
-纽约时报技术团队正在探索解决网络假消息泛滥问题的解决方案。例如图片一旦在网络上传开，缺少背景信息，很容易被用作误导性传播假消息。
-区块链的分布式账本技术 (DLT) 的信息不可篡改性，可溯源性恰好是解决这一问题的天然方案。
-但是在应用区块链技术在技术领域前有几个问题也要解决。
- 链上内容需获得网络用户审核。但是智能合约的验证规则复杂。 网络图片一定要与原始版本匹配。社交媒体及新闻网站难以接入区块链验证图片 ID。 区块链网络一定要开放，新组织可以随时接入。  2 - Coindesk：《股市与经济脱钩，需要金融创新》
-Stock Market Disconnect Shows Need For Financial Innovation (Money Reimagined 专栏 CCO Michael J. Case)
-(Newsletter 订阅地址：https://www.coindesk.com/newsletters)
-在美联储财政和货币政策刺激下，在失业申报人数不断增加情况下，从三月底至今美股标普 500 反弹超 30%。再次证明目前资本市场资源错配，加剧不平衡。是时候再仔细研究 ICO 。
-尽管 2016 ~ 2017 年 1CO 热潮引来很多骗局，利用信息不对称造成投资者损失。但这并不意味着 ICO 没有好处。
- ICO 可以让更多人加入到创新投资中，而不是未来保护特权投资基金和少数投资者。 利用得当可以将资金配置给真正有需要的创新者。 公平分配财富。让创新的财富分配给更多大众，而不是少数投资者获得巨额财富。  由于华尔街有过度政治利益，阻碍创新。这是结构性问题。</description>
     </item>
     
   </channel>
