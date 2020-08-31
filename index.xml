@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>分布所周刊 #12 | 投融资密集</title>
+      <link>https://funkyswing.github.io/posts/2020-8-30_newsletter-12/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-8-30_newsletter-12/</guid>
+      <description>8 月 24 日 - 30 日
+ Cryto 投资法则，Dex 缺陷，CBDC，无抵押贷款，BTC 货币政策，通胀 2%，抗衰老市场……
+ 本周动态 Aave 英国实体公司 Aave Limited 获英国金融行为监管局电子货币机构许可证
+FTX 以 1.5 亿美元收购加密资产管理工具 Blockfolio，加强散户业务
+以太坊软件公司 ConsenSys 收购摩根大通区块链项目 Quorum 推动企业区块链应用
+去中心化金融衍生品协议 Perpetual Protocol 获 Multicoin Capital 领投 180 万美元
+波卡 DeFi 平台 Acala 获 Pantera Capital 领投 A 轮 700 万美元
+全球最大金融服务公司之一 Fidelity Investments Inc.向 SEC 申请比特币基金
+DCG 集团成立 Foundry 涉足挖矿、权益抵押和咨询业务
+Framework 投资去中心交易平台 DODO 种子轮融资，首次领投中国 DeFi 项目
+Chainlink 收购康奈尔大学隐私预言机方案 DECO，Sergey Nazarov 和 Juels 在准备第二版白皮书</description>
+    </item>
     
     <item>
       <title>分布所周刊 #11 | 实验游戏</title>
@@ -165,18 +184,6 @@ DeFi 总锁仓量也超过 40 亿美元。Maker 占比 超过 30%。
 # - DeFi 会不会夺取传统金融市场份额。或许我们应该存有野心。当然有人说要主动多多交易，那我不太同意。DeFi 要吃掉传统金融
 金融： # - 2008 年经济危机全球央行开始 QE，美国尤其展开有史以来最大。但为什么这十年中美国没有出现高通胀，这可以说是经济学的一大谜团。但有几个现象值得注意。例如科技让大众获取各项服务的成本大大减少，一部手机可以看视频听音乐看书浏览新闻；吸引更多欠发达地区低成本劳动力；低利率可以维持大多数科技公司负收益经营；商品价格低；财富集中… 量化宽松、现代货币理论、通胀、通缩：简介
 科技： # - 抖音海外版 TikTok 最近是在风口浪尖。先是国安法发布后宣布撤出香港市场。这对他们也许是折中方案，而且香港在其全球市场只占很小部分，大约 15 万用户。之后川普政府提议禁止 TikTok，这在美国用户中也引起不小波澜。退出香港市场，TikTok 用户小紧张</description>
-    </item>
-    
-    <item>
-      <title>分布所周刊 #04 | 金融创新</title>
-      <link>https://funkyswing.github.io/posts/2020-7-06_newsletter-4/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/posts/2020-7-06_newsletter-4/</guid>
-      <description>区块链 # - POW 共识算法主要两个作用 1）验证交易，维护共识，保证安全性；2）公平分配货币。某种程度来说验证交易要比公平分配更加重要。而流动性挖矿就不一样，即使不给流动性提供者奖励协议也会照常运行。对于流动性挖矿，代币公平分配更重要。这样可以吸引更多新用户，有利于长远社区决策，让监管者不再视其为证券。对于用户，或许只需要存入 USD 获得稍高利息，这样就会轻松吸引数亿级传统银行存款进入 DeFi。简单的协议也更容易保证安全。 流动性挖矿和 POW 挖矿对比(by Hasu)
-# - ** l6 月 29 日凌晨 DeFi 平台 Balancer 上的 STA 和 STONK 两个 ERC20 通缩代币池遭到了黑客攻击，损失超过 50 万美元。事后 Balancer 发推表示赔偿用户损失。这是今年第三起 DeFi 平台遭到攻击。今年 2 月 15 日 bZx 遭到攻击损失超过一百万美元。四月 dForce 由于 ERC777 合约漏洞遭到黑客攻击损失超过 2,500 万美元 ，被盗资金后被追回。DeFi平台Balancer遭黑客攻击全过程技术拆解**
-# - ** 去中心化交易所今年也竞争激烈，去中心化衍生品交易所 DerivaDEX 获得第二轮融资 270 万美元，由 Polychain Capital、Dragonfly Capital Partners、Electric Capital、Coinbase Ventures、CMS Holdings 等领投。DerivaDEX 下一代衍生品交易所**
-# - ** “收益农场 (Yield Farming)” 兴起，DeFi Rate 这篇总结各个协议特点。收益农场简介**</description>
     </item>
     
   </channel>

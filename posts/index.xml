@@ -6,8 +6,78 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://funkyswing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>分布所周刊 #12 | 投融资密集</title>
+			<link>https://funkyswing.github.io/posts/2020-8-30_newsletter-12/</link>
+			<pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://funkyswing.github.io/posts/2020-8-30_newsletter-12/</guid>
+			<description>8 月 24 日 - 30 日
+ Cryto 投资法则，Dex 缺陷，CBDC，无抵押贷款，BTC 货币政策，通胀 2%，抗衰老市场……
+ 本周动态 Aave 英国实体公司 Aave Limited 获英国金融行为监管局电子货币机构许可证
+FTX 以 1.5 亿美元收购加密资产管理工具 Blockfolio，加强散户业务
+以太坊软件公司 ConsenSys 收购摩根大通区块链项目 Quorum 推动企业区块链应用
+去中心化金融衍生品协议 Perpetual Protocol 获 Multicoin Capital 领投 180 万美元
+波卡 DeFi 平台 Acala 获 Pantera Capital 领投 A 轮 700 万美元
+全球最大金融服务公司之一 Fidelity Investments Inc.向 SEC 申请比特币基金
+DCG 集团成立 Foundry 涉足挖矿、权益抵押和咨询业务
+Framework 投资去中心交易平台 DODO 种子轮融资，首次领投中国 DeFi 项目
+Chainlink 收购康奈尔大学隐私预言机方案 DECO，Sergey Nazarov 和 Juels 在准备第二版白皮书</description>
+			<content type="html"><![CDATA[<p>8 月 24 日 - 30 日</p>
+<blockquote>
+<p>Cryto 投资法则，Dex 缺陷，CBDC，无抵押贷款，BTC 货币政策，通胀 2%，抗衰老市场……</p>
+</blockquote>
+<h3 id="heading">本周动态</h3>
+<p>Aave 英国实体公司 Aave Limited <a href="https://www.chainnews.com/news/456000942766.htm">获英国金融行为监管局电子货币机构许可证</a></p>
+<p>FTX 以 1.5 亿美元<a href="https://www.chainnews.com/news/673974176878.htm?utm_medium=wechat&amp;utm_campaign=u729313161736&amp;from=timeline">收购加密资产管理工具</a> Blockfolio，加强散户业务</p>
+<p>以太坊软件公司 ConsenSys  <a href="https://consensys.net/blog/news/consensys-acquires-jpm-quorum">收购摩根大通区块链项目 Quorum</a> 推动企业区块链应用</p>
+<p>去中心化金融衍生品协议 Perpetual Protocol 获 <a href="https://www.theblockcrypto.com/post/75951/defi-perpetual-protocol-funding-multicoin">Multicoin Capital  领投 180 万美元</a></p>
+<p>波卡 DeFi 平台 Acala 获 Pantera Capital 领投 A 轮 700 万美元</p>
+<p>全球最大金融服务公司之一 Fidelity Investments Inc.向 SEC <a href="https://www.forbes.com/sites/michaeldelcastillo/2020/08/26/fidelity-president-files-for-new-bitcoin-fund/#3bbe19bc45c9">申请比特币基金</a></p>
+<p>DCG 集团<a href="https://medium.com/@DCGco/announcing-foundry-digital-currency-groups-new-crypto-mining-and-staking-business-9e9d66e0784a">成立 Foundry</a> 涉足挖矿、权益抵押和咨询业务</p>
+<p>Framework <a href="https://www.chainnews.com/news/763882930625.htm?from=groupmessage">投资去中心交易平台 DODO 种子轮融资</a>，首次领投中国 DeFi 项目</p>
+<p><a href="https://www.coindesk.com/chainlink-blockchain-privacy-oracle?amp=1&amp;s=09">Chainlink 收购康奈尔大学隐私预言机方案 DECO</a>，Sergey Nazarov 和 Juels 在准备第二版白皮书</p>
+<h3 id="heading-1">图表</h3>
+<p>Ethereum 链上 BTC 数量新高</p>
+<p><img src="/inserted-images/8-31_1-wBTC.jpg" alt="name"></p>
+<p>币安比特币交易差价减少，深度变好</p>
+<p><img src="/inserted-images/8-31_2-spread.jpg" alt="name"></p>
+<p>市场多头仓位达到年内新高</p>
+<p><img src="/inserted-images/8-31_3-long-short.jpg" alt="name"></p>
+<p>BTC 市场份额从今年最高 68% 下降到现在  60% 以下</p>
+<p><img src="/inserted-images/8-31_4-marketshare.jpg" alt="name"></p>
+<h3 id="heading-2">区块链</h3>
+<p><strong><em># -</em></strong> <strong>投资法则</strong>。IOSG Ventures 注重投资基础设施、底层协议和应用。在 DeFi 领域也有布局，投资 1inch、Kava、Maker、Kyber Network 等协议和应用。他们投资有自己的路径和方法。</p>
+<p><a href="https://mp.weixin.qq.com/s/L8CXeECPbxqPavTdcONsHQ">[链闻]</a> <a href="http://www.iosg.vc">[官网]</a></p>
+<p><strong><em># -</em></strong> <strong>Dex 的缺陷</strong>。即使 Dex 为未来的金融世界带来更多想象，也在逐渐实现。但有些问题仍旧没有解决，例如隐私、抢先交易，甚至潜藏漏洞可能会造成财产损失。对于专业投资者看懂智能合约，了解合约架构和内容，会是必修课。</p>
+<p><a href="https://www.chainnews.com/articles/124072923888.htm">[链闻]</a> <a href="https://medium.com/coinmonks/smart-contract-orchestration-patterns-b9043b7c27c4">[智能合约配置模式]</a></p>
+<p><strong><em># -</em></strong> <strong>CBDC</strong>。CBDC 是央行数字货币 Central Bank Digital Currency 缩写。目前瑞典、乌拉圭、乌克兰都准备推出各自数字货币。欧洲、日本也早已进行研究。美联储上月也公布和 MIT 的数字货币研究计划，<a href="https://www.coindesk.com/boston-fed-blockchain-digital-dollar?utm_source=newsletters&amp;utm_medium=firstmover&amp;utm_campaign=&amp;clid=00Q1I00000KKd2CUAT">波士顿联邦银行目前在评估三十多个区块链项目</a>的未来可能应用。以下是两篇 CBDC 研究报告。</p>
+<p><a href="https://newsletter.theblockcrypto.com/l/lYHzJrq892UK7QEPJUMj8S1A/oK7qHa3sDPPZL0d0y763lnLg/sSkB892zjtZHMqdN7tYJXPbg">[theblock - PDF]</a> [<a href="https://www.bis.org/publ/work880.htm?utm_source=newsletters&amp;utm_medium=firstmover&amp;utm_campaign=&amp;clid=00Q1I00000KKd2CUAT">国际清算银行</a>]</p>
+<p><strong><em># -</em></strong> <strong>无抵押贷款</strong>。去中心化借贷平台 Aave 计划推出无抵押贷款。可以用  <a href="https://www.thelao.io/">OpenLaw</a> 智能合约做信用抵押。建立资金池，利用 Opium 保险协议信贷违约互换 (CDS)。未来甚至可以将房产代币化作为链上抵押。</p>
+<p><a href="https://www.coindesk.com/aave-unsecured-borrowing-defi?utm_source=newsletters&amp;utm_medium=moneyreimagined&amp;utm_campaign=&amp;clid=00Q1I00000KKd2CUAT">[链接]</a></p>
+<p><strong><em># -</em></strong> <strong>DeFi 管理指南</strong>。DeFi 目前有资产财富管理、支付、存贷、资本市场和保险几大业务块。未来可能会扩展到更多领域，例如零售、艺术品等。</p>
+<p><a href="https://hackernoon.com/the-management-guide-to-decentralized-finance-defi-5w183x2w?source=rss">[链接]</a></p>
+<p><strong><em># -</em></strong> <strong>比特币货币政策</strong>。比特币通缩货币政策作为对现有金融体系挑战这一形象示人。但当 21 万总量挖完，完全依靠交易费奖励是否可以激励矿工留在网络维护网络安全？这个问题谁都无法给出完美答案。比特币的魅力也在此，能吸引最聪明、最有探险精神的人，也能吸引投机客、赌徒、黑客，甚至骗子，共同组成完美的博弈游戏。即使未来失败，它也会这个世界留下可供研究的大型社会范本。</p>
+<p><a href="https://medium.com/@nic__carter/dont-fear-the-reaper-8bbb42358efb">[Nic Carter: Don’t Fear the Reaper]</a></p>
+<p><strong><em># -</em></strong> <strong>在 Crypto 领域占得一位</strong>。最近 Messari 在招聘社区研究员。给了几个行业内职业规划建议。例如坚持写作，产出有价值的内容……分享给大家共勉。</p>
+<p><a href="https://messari.io/article/exiting-the-high-finance-rat-race-for-crypto">[链接]</a> <a href="https://messari.io/article/how-to-get-a-job-in-crypto">[链接]</a> <a href="https://messari.io/article/how-to-get-a-job-in-crypto">[链接]</a></p>
+<h3 id="heading-3">金融</h3>
+<p><strong><em># -</em></strong> <strong>通胀 2%</strong>。28日美联储主席  Jerome Powell 在 Jackson Hole 宣布未来适当容许通胀 2% 以上。过去十年在量化宽松货币政策下，美国通胀率都没有超过 2%。在就业问题和经济下滑压力下，这也是预期结果。</p>
+<p><a href="https://finance.yahoo.com/news/jackson-hole-powell-unveils-effort-to-target-moderately-higher-inflation-131005405.html">[链接]</a> <a href="https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm">[Powell 讲话实录]</a></p>
+<h3 id="heading-4">科技</h3>
+<p><strong><em># -</em></strong> <strong>亚马逊 Halo 运动手环</strong>。亚马逊上周推出 Halo 运动手环增加两项新功能：3D 扫描身体衡量人体脂肪和声音情绪识别。Halo 与多家第三方健康服务商合作。但亚马逊声明手环不是医疗仪器。目前售价 99.99 美元，会员服务每月 3.99 美元。关于用户个人数据也有隐私担忧。</p>
+<p><a href="https://www.theverge.com/2020/8/27/21402493/amazon-halo-band-health-fitness-body-scan-tone-emotion-activity-sleep?scrolla=5eb6d68b7fedc32c19ef33b4">[链接]</a></p>
+<p><strong><em># -</em></strong> <strong>云服务市场</strong>。与计算市场已超出作为基础设施服务 (IaaS)，提供软件服务 (SaaS) 和平台服务 (PaaS)。云计算市场也在经历转变。</p>
+<p><a href="https://www.globalxetfs.com/mapping-the-cloud-a-look-at-the-segments-driving-growth/?utm_source=Bloomberg&amp;utm_medium=native&amp;utm_content=mapping-the-cloud">[Global X]</a></p>
+<p><strong><em># -</em></strong> <strong>延缓衰老</strong>。长生不老从古到今很多人的追求，也是医学发展的一个源泉。Peter Thiel 就投资过 <a href="http://unitybiotechnology.com/">Unity Biotechnology</a> 等研究抗衰老的生物公司。Longevity Fund 从名字就能知道做什么的了。可以先了解这个市场的基本类型。</p>
+<p><a href="https://www.ldeming.com/longevityfaq">[链接]</a></p>
+<p><strong><em># -</em></strong> <strong>苹果开发税</strong>。Facebook 在 App 内告知用户，若付费苹果 App Store 会收取 30% 佣金。苹果因此取消 Facebook 更新。</p>
+<p><a href="https://www.theverge.com/platform/amp/2020/8/28/21405140/apple-rejects-facebook-update-30-percent-cut?utm_campaign=theverge&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter&amp;__twitter_impression=true&amp;s=09">[链接]</a></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>分布所周刊 #11 | 实验游戏</title>
