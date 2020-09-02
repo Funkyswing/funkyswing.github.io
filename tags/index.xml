@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>crypto</title>
+      <link>https://funkyswing.github.io/tags/crypto/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/tags/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeFi</title>
+      <link>https://funkyswing.github.io/tags/defi/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/tags/defi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中文</title>
+      <link>https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>newsletter</title>
@@ -18,24 +45,6 @@
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://funkyswing.github.io/tags/newsletter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>中文</title>
-      <link>https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>crypto</title>
-      <link>https://funkyswing.github.io/tags/crypto/</link>
-      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/tags/crypto/</guid>
       <description></description>
     </item>
     

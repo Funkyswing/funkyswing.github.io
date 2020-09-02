@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>加密资产 | 无损彩票</title>
+      <link>https://funkyswing.github.io/posts/2020-9-02_crypto_pooltogether/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-9-02_crypto_pooltogether/</guid>
+      <description>根据 Research and Market 数据，全球彩票业 2020 年至 2024 年之间预计增长 2,205.2 亿美元，复合年增长率 (CAGR) 10%。目前市场规模大概在五千亿美元。
+但目前彩票业对参与者不是最优选。购买者获奖机会微乎其微，而损失本金确实大概率事件。最大的赢家就是彩票公司或发行者。
+为何因此还有人买彩票？彩票利用大多数人的认知偏见。多数人不理解根本的风险回报机制。购买彩票前只考虑到巨额回报，而忽视了低赢率。多数人参与其中损失也是自然的事情。
+而 PoolTogether 便是利用去中心化网络解决这个问题。让参与者参与到奖池，有机会获得大奖，而不损失投资。
+什么是 PoolTogether？ PoolTogether 就是无损失彩票。相像可以买彩票有机会赢得奖金，而且始终有机会拿回你的本金。
+用户通过智能合约存入 Dai 或 USDC 到 PoolTogether 资金池。PoolTogether 会将钱存入开放式货币市场 Compound.Finance。Compound 会将这些资金借出给货币市场用户。这些资金借贷的利息累积到资金池作为奖励。奖金还包括由个人或公司为生态发展存入 Dai 叫做“赞助资金”(Sponsored Dai) 这些资金产生的利息也用于资金池奖励。
+用户每存入一个 DAI 或 USDC 便获得一张彩票 (ticket)。加入资金池有 1,000 Dai，其中你存入 1 Dai，那么你就有一张彩票，获奖概率是 0.1%。
+资金池每周开奖。用户资金可以随时取出。只要存款一直在资金池，便可是从参加抽奖。
+货币乐高 事实上，PoolTogether 这种机制并不新鲜，与中奖储蓄 (Prize-linked savings, PLS) 类似。PLS 是传统银行用存款获得大额奖金抽奖鼓励用户存款的方式。
+通过智能合约部署 PLS 可以保证资金安全性和抽奖公平性。无需 KYC/AML，无需许可，全球用户无障碍参与。
+PoolTogether 可以利用无损彩票吸引用户，同时可为 DeFi 下游提供资金池，带来更多流动性。
+PoolTogether 有潜力成为 DeFi 彩票的重要组成部分，甚至在全球彩票业中占得份额。
+抽奖机制 抽奖机制如下:</description>
+    </item>
     
     <item>
       <title>分布所周刊 #12 | 投融资密集</title>
@@ -169,21 +190,6 @@ DeFi 总锁仓量也超过 40 亿美元。Maker 占比 超过 30%。
 # - 过去二十多年互联网诞生的大型公司彻底改变我们的生活方式和交往方式。新技术未来仍会改变人们的工作方式和价值分配方式。荀子有言“有恒产者有恒心”。所有权也会用户贡献资源、代码、社区建设的一个动力，甚至会发展成一种经济模式“所有权经济” (Ownership Economy)。点对点协议 BitTorrent 2004 年占互联网流量三分之一，显示出用户对书籍、视频、音频媒体所有权的强大需求。随之诞生 Youtube、Netflix 等大型流媒体。即便如此，p2p 下载软件的需求仍不减。而加密货币以原生网络媒介，能高效捕捉媒体价值，分配价值。Variant Fund 视所有权经济为下一代消费者软件前沿
 # - 黑客改几行代码，黑客潜伏两个月后，增发三亿才被发现。这也会算作是加密资产历史上的一件奇异攻击事件。项目的代码管理、治理也是开源项目不断探索的一个议题。高智商犯罪：价值 4000 万人民币的 3 行代码
 金融： # - 中美的经济政治对世界有重大影响。哈佛 Niall Ferguson 和柏林自由大学 Moritz Schularick 从中美汇率和经济交织来分析中美关系。中美终结</description>
-    </item>
-    
-    <item>
-      <title>分布所周刊 #05 | 冲突</title>
-      <link>https://funkyswing.github.io/posts/2020-7-13_newsletter-5/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/posts/2020-7-13_newsletter-5/</guid>
-      <description>区块链 # - 三月股市大跌之后，美联储降息，加大经济刺激。Tether 也同时开始增发，市场需求明显增加，以超过 90 亿美元获得加密资产市值第三。随着 DeFi 的发展，预计将来加密美元市场会继续增长，市场竞争对手也会越来越多。目前市场加密美元有两种，一种以 USDT、USDC、PAX 为代表的法币资产抵押；另外就是以 DAI 为代表的加密资产抵押。与传统数字美元不同，（1）加密美元更灵活；（2）运行在开放的网络上；（3）可审计。Castle Island 投资公司这篇报告对加密美元市场进行分析解读：加密美元
-# - Staking 可以说有机会创造全新的投资和经济模式，已经不可忽视。这篇来介绍 Staking。理解 Staking
-# - DeFi 的结构，未来在经济中的作用，目前存在哪些风险。Maple Leaf 资本这篇报告做出分析。ETH + DeFi 价值链的基本架构
-# - 以太坊第二层协议目前发展现状。离线可扩展解决方案，离线交易方案以及存在哪些风险。以太坊 L2 状态
-# - DeFi 会不会夺取传统金融市场份额。或许我们应该存有野心。当然有人说要主动多多交易，那我不太同意。DeFi 要吃掉传统金融
-金融： # - 2008 年经济危机全球央行开始 QE，美国尤其展开有史以来最大。但为什么这十年中美国没有出现高通胀，这可以说是经济学的一大谜团。但有几个现象值得注意。例如科技让大众获取各项服务的成本大大减少，一部手机可以看视频听音乐看书浏览新闻；吸引更多欠发达地区低成本劳动力；低利率可以维持大多数科技公司负收益经营；商品价格低；财富集中… 量化宽松、现代货币理论、通胀、通缩：简介
-科技： # - 抖音海外版 TikTok 最近是在风口浪尖。先是国安法发布后宣布撤出香港市场。这对他们也许是折中方案，而且香港在其全球市场只占很小部分，大约 15 万用户。之后川普政府提议禁止 TikTok，这在美国用户中也引起不小波澜。退出香港市场，TikTok 用户小紧张</description>
     </item>
     
   </channel>
