@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>加密资产 4 | Swerve  农民起义</title>
+      <link>https://funkyswing.github.io/posts/2020-9-5_crypto-swerve/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-9-5_crypto-swerve/</guid>
+      <description>「 旧世界在一点点破裂，国王从没想过碎片会砸到自己。」
+—— Jennifer Donnelly，《革命》作者
+ 开源智能合约平台以太坊自六月以来从 Compound、Yearn 开始 DeFi 走热。DeFi 协议除了 Compound、Aave、Republic Protocol、Maker DAO、Uniswap 这些“老牌”，之后出现一系列 Yean II、Yam、Sushiswap、Based 等分叉协议。Swerve Finance 是昨天 9 月 4 日出现的新分叉协议。
+Swerve Finance 由匿名团队发布，分叉 Curve。无预挖，项目 100% 社区所有。
+官网声明
+ 我们将推出 Curve 分叉项目 Swerve，完全社区治理。
+项目没有合约预先部署，没有受质疑的预挖，没有创始人控制多数治理投票，没有可疑的团队投票，没有 30% 团队“股份”，没有十年代币分发计划……都没有。
+总量 3,300 万，完全为社区流动性提供者 (LP) 和用户所有。
+若为 Swerve 提供流动性，可获得 ySWRV 代币。ySWRV 可在 Swerve DAO 中质押，获得 $SWRV 奖励。为鼓励早期用户参加，前两周可获得高额 $SWRV 奖励。
+ 代币奖励计划：
+（完全奖励给 LP）
+9,000,000 $SWRV [前两周]
+9,000,000 $SWRV [year 1]</description>
+    </item>
     
     <item>
       <title>加密资产 | 无损彩票</title>
