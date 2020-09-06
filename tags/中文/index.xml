@@ -7,13 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>加密资产 4 | Swerve  农民起义</title>
+      <title>分布所周刊 #13 | 魔幻</title>
+      <link>https://funkyswing.github.io/posts/2020-9-06_newsletter-13/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-9-06_newsletter-13/</guid>
+      <description>8 月 31 日 - 9 月 06 日
+ 弹性供应量、Sushi 和 Unicorn、社区治理、以太坊链上 BTC、Chainlink 攻击、加密资产信贷市场
+ 本周动态  Pornhub 添加比特币和莱特币支付选项，不久前支持 USDT Metamask 上线安卓和 iOS 钱包 BitMEX 推出 Chainlink 和 Tezos 期货合约 德国拟推出电子证券 Opium 推出 USDT CDS 产品，用以对冲 USDT 承兑违约风险 Bitfinex 母公司 iFinex 投资证券代币交易所 Dusk Network 一百万美元 DeFi 风险控制工具 Cozy Finance 获得 Electric Capital、Variant Fund、Dragonfly Capital 等两百万美元种子轮投资 英格兰银行总督 Andrew Bailey 呼吁各国联合监管稳定币 比特币核心开发者加入 Chaincode Labs Curve 分叉协议 Swerve 上线。宣布无预挖，无开发税，奖励全部给 LP  BTC 波动率仍旧很低</description>
+    </item>
+    
+    <item>
+      <title>加密资产 四 | Swerve  农民起义</title>
       <link>https://funkyswing.github.io/posts/2020-9-5_crypto-swerve/</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
       
@@ -183,19 +194,6 @@ DeFi 总锁仓量也超过 40 亿美元。Maker 占比 超过 30%。
 区块链 # - 美国银行获准提供加密资产托管业务。7 月 22 日美国财政部下属机构货币监理署 (OCC) 关于银行向客户提供加密资产托管业务发布一封诠释函，说明美国银行如何经营加密资产相关业务。其中规定美国银行可合法为客户提供加密资产托管服务。这一规定对整个行业意义重大。一，首个国家主要银行监管机构公开认可加密资产；二，这为传统银行进入加密资产行业敞开大门，加密资产托管会被广泛接受，获得更多信任，竞争带来更低成本，吸引更多投资者；三，更多合规银行进入加密资产行业，减少欺诈项目，促进行业发展。当然变化不会一夜之间发生，这监管态度会推动整个行业发展。[链接]
 # - 以太坊 2.0 经济概述。以太坊五岁。向 POS (权益证明) 共识算法转变是加密资产史上最具野心也非常复杂。ETH2 的安全性依赖于 ETH 抵押量、ETH 价格和市场波动性三方面，任何一方面都会直接或间接影响网络安全。随着 DeFi 大规模应用，“闪电贷”等攻击出现概率更高。有资本优势的验证者更可预测。13.8% ETH 抵押量的网络安全性相当于 ETH1 历史最高价时的安全性。验证者的运营成本会越来越低。目前流通量 77.7% 存在非交易所钱包符合 32 ETH 抵押条件。ETH2 的安全成本远远低于 ETH1。网络安全性依赖于 ETH 价格稳定。[ETH2.0 指南] [ETH2.0 经济模型概况]
 # - Aave 协议去中心化。Aave 前身 EthLend (LEND)，基于以太坊的借贷协议，最近更新协议治理经济，完全去中心化，LEDN 兑换为新 Token AAVE。按 100: 1 比例 13 亿 LEND 兑换为 1600 万 Aave，其中 300 万 Aave 属于“Aave 储备”，用以社区协议改善。 [链接]</description>
-    </item>
-    
-    <item>
-      <title>分布所周刊 #07 | 比特币与央行</title>
-      <link>https://funkyswing.github.io/posts/2020-7-27_newsletter-7/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/posts/2020-7-27_newsletter-7/</guid>
-      <description>比特币矿业；开发人员资助情况；稳定币；AMM；东欧加密货币挖矿飞地；欧洲央行放水；社交媒体所有权
- 区块链 # - 比特币矿业发展和算力经济之上的衍生品 比特币十年以来，比特币矿业已经发展为年收入超过 50 亿美元的产业。美元结算系统 Fedwire 每日处理金融机构业务 2 万亿美元。比特币相比而言作为基础结算协议，交易成本更低、交易可验证、无对手风险。算力保证比特币网络安全，而网络交易活动推动算力经济价值。围绕算力的资产和金融产品类型包括：
- 矿机市场 算力金融衍生品：云算力；算力 token；算力期货；算力远期合约 矿场投资  Anicca Research 这篇报告详述比特币的网络算力经济模式。[链接]
-# - 稳定币的兴起 稳定币已经成为加密资产市场不可或缺的一部分。三月市场因 Covid-19 引起的震荡多数资产跳水，大量资产涌入稳定币。稳定币有链上资产的安全性、低手续费、无摩擦成本、便捷等优势。或许除了投机和投资市场，作为价值交换媒介，稳定币也会逐渐为传统金融交易所接受，作为结算工具和跨境支付。[链接]
-# - AMM 兴起 DeFi 的热度为 Dex (去中心化交易所) 最近带来的交易量倍增。。AMM（自动做市商）是 Dex 最重要的部分，Uniswap、1inch、Kyber、Balancer 这些都是 AMM。做市商的规则也很简单，依据就是公式：x * y = k 。x 是 token 甲的数量，y 是 token 乙的数量，k 是两种 token 数量乘积。自动做市商的作用就是要保持 k 恒定不变。假设资金池现有 100 ETH 和 20,000 USDC，那么 k 就是 2,000,000，ETH 价格就是 200 USDC。如果有人要买 10 ETH，现在 LP 内就剩下 90 ETH (100 - 10)，那么 USDC 数量就为 22,222 (200,000 / 90)。现在需要支付 2,222 USDC 购买 10 ETH，ETH 价格 200，222 USDC 为交易滑点 (slippage)。最后 LP 内 90 ETH，22,222 USDC，ETH 价格为 247 USDC。这时候有套利者进入卖出 ETH，慢慢价格又可以回到之前的状态。AMM 适合 LP (流动性提供者) 在低波动市场赚取收益。Uniswap 也很有可能长久成为 AMM 的领头羊。Dragonfly 这篇推荐阅读。[链接]</description>
     </item>
     
   </channel>
