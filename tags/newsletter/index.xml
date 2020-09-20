@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>分布所周刊 #15 | 酝酿新走势</title>
+      <link>https://funkyswing.github.io/posts/2020-9-20_newsletter-15/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-9-20_newsletter-15/</guid>
+      <description>9 月 14 日 - 20 日
+ DEX、算力市场、比特币经济、比特币投资、Yam、弹性借贷……
+ 加密动态  MicroStrategy 截至 9 月 15 日已购入超过 3.8 万枚比特币 Uniswap 发行治理代币 $UNI，总量十亿枚，其中 15% 回馈老用户 继 Synthetix 的 sDEFI 代币后，DeFi Pulse 与 Set Protocol 合作推出 DeFi 指数产品 DeFi Pulse Index (DPI) 老牌交易所 Kraken 获得美怀俄明州颁发“特殊目的存储机构” (SPDI) 银行执照，可为美国用户提供加密资产托管业务。之前摩通首先为 Coinbase 和 Gemini 提供银行业务 泰国央行启用区块链平台发行政府储蓄债券 以太坊新提案 EIP 2982 预计年底推出以太坊 2.0 Cream 销毁流通量 67.5% 的代币 6,075,000 CREAM 代币 Gelato Network 获 Galaxy Digital、IOSG Ventures 种子轮 120 万美元 Yearn.</description>
+    </item>
     
     <item>
       <title>分布所周刊 #14 | DEX 之战</title>
@@ -158,21 +169,6 @@ DeFi 总锁仓量也超过 40 亿美元。Maker 占比 超过 30%。
 # - 过去二十多年互联网诞生的大型公司彻底改变我们的生活方式和交往方式。新技术未来仍会改变人们的工作方式和价值分配方式。荀子有言“有恒产者有恒心”。所有权也会用户贡献资源、代码、社区建设的一个动力，甚至会发展成一种经济模式“所有权经济” (Ownership Economy)。点对点协议 BitTorrent 2004 年占互联网流量三分之一，显示出用户对书籍、视频、音频媒体所有权的强大需求。随之诞生 Youtube、Netflix 等大型流媒体。即便如此，p2p 下载软件的需求仍不减。而加密货币以原生网络媒介，能高效捕捉媒体价值，分配价值。Variant Fund 视所有权经济为下一代消费者软件前沿
 # - 黑客改几行代码，黑客潜伏两个月后，增发三亿才被发现。这也会算作是加密资产历史上的一件奇异攻击事件。项目的代码管理、治理也是开源项目不断探索的一个议题。高智商犯罪：价值 4000 万人民币的 3 行代码
 金融： # - 中美的经济政治对世界有重大影响。哈佛 Niall Ferguson 和柏林自由大学 Moritz Schularick 从中美汇率和经济交织来分析中美关系。中美终结</description>
-    </item>
-    
-    <item>
-      <title>分布所周刊 #05 | 冲突</title>
-      <link>https://funkyswing.github.io/posts/2020-7-13_newsletter-5/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/posts/2020-7-13_newsletter-5/</guid>
-      <description>区块链 # - 三月股市大跌之后，美联储降息，加大经济刺激。Tether 也同时开始增发，市场需求明显增加，以超过 90 亿美元获得加密资产市值第三。随着 DeFi 的发展，预计将来加密美元市场会继续增长，市场竞争对手也会越来越多。目前市场加密美元有两种，一种以 USDT、USDC、PAX 为代表的法币资产抵押；另外就是以 DAI 为代表的加密资产抵押。与传统数字美元不同，（1）加密美元更灵活；（2）运行在开放的网络上；（3）可审计。Castle Island 投资公司这篇报告对加密美元市场进行分析解读：加密美元
-# - Staking 可以说有机会创造全新的投资和经济模式，已经不可忽视。这篇来介绍 Staking。理解 Staking
-# - DeFi 的结构，未来在经济中的作用，目前存在哪些风险。Maple Leaf 资本这篇报告做出分析。ETH + DeFi 价值链的基本架构
-# - 以太坊第二层协议目前发展现状。离线可扩展解决方案，离线交易方案以及存在哪些风险。以太坊 L2 状态
-# - DeFi 会不会夺取传统金融市场份额。或许我们应该存有野心。当然有人说要主动多多交易，那我不太同意。DeFi 要吃掉传统金融
-金融： # - 2008 年经济危机全球央行开始 QE，美国尤其展开有史以来最大。但为什么这十年中美国没有出现高通胀，这可以说是经济学的一大谜团。但有几个现象值得注意。例如科技让大众获取各项服务的成本大大减少，一部手机可以看视频听音乐看书浏览新闻；吸引更多欠发达地区低成本劳动力；低利率可以维持大多数科技公司负收益经营；商品价格低；财富集中… 量化宽松、现代货币理论、通胀、通缩：简介
-科技： # - 抖音海外版 TikTok 最近是在风口浪尖。先是国安法发布后宣布撤出香港市场。这对他们也许是折中方案，而且香港在其全球市场只占很小部分，大约 15 万用户。之后川普政府提议禁止 TikTok，这在美国用户中也引起不小波澜。退出香港市场，TikTok 用户小紧张</description>
     </item>
     
   </channel>

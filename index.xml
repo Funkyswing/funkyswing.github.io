@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funkyswing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>分布所周刊 #15 | 酝酿新走势</title>
+      <link>https://funkyswing.github.io/posts/2020-9-20_newsletter-15/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://funkyswing.github.io/posts/2020-9-20_newsletter-15/</guid>
+      <description>9 月 14 日 - 20 日
+ DEX、算力市场、比特币经济、比特币投资、Yam、弹性借贷……
+ 加密动态  MicroStrategy 截至 9 月 15 日已购入超过 3.8 万枚比特币 Uniswap 发行治理代币 $UNI，总量十亿枚，其中 15% 回馈老用户 继 Synthetix 的 sDEFI 代币后，DeFi Pulse 与 Set Protocol 合作推出 DeFi 指数产品 DeFi Pulse Index (DPI) 老牌交易所 Kraken 获得美怀俄明州颁发“特殊目的存储机构” (SPDI) 银行执照，可为美国用户提供加密资产托管业务。之前摩通首先为 Coinbase 和 Gemini 提供银行业务 泰国央行启用区块链平台发行政府储蓄债券 以太坊新提案 EIP 2982 预计年底推出以太坊 2.0 Cream 销毁流通量 67.5% 的代币 6,075,000 CREAM 代币 Gelato Network 获 Galaxy Digital、IOSG Ventures 种子轮 120 万美元 Yearn.</description>
+    </item>
     
     <item>
       <title>分布所周刊 #14 | DEX 之战</title>
@@ -179,20 +190,6 @@ DAO 将股东换成币东 (持币人😄)。管理用代码替换了人。实际
 DeFi 更灵活和透明。智能合约多数开源，具有跨应用互操作性。代码可验证，用户可根据自己需求选择服务。
 DeFi 的特点 相对于传统金融，去中心化金融有无可替代的优势。
  去中心化。DeFi 的业务不依靠任何机构或个人，无单点故障。规则写在智能合约代码内，DApp 部署在链上，无需人工干预就可执行。尽管实际上需要开发者维护或修补漏洞。 透明。所有区块链上 DApp 代码公开，任何人都可以审计。建立与中心化服务完全不同的信任机制。用户有机会在完全了解智能合约功能、是否有 bug 情况后使用。所有链上交易公开可查。交易地址假名不与真实身份连接一定程度保护隐私。随着密码学技术发展，还会有更好保证隐私的 DApp 出现。 无界限。从设计开始 DApp 就无国界限制。无论身处何处，大家都可享同一服务和网络。 无需许可。任何人都可以创建或使用 DeFi 服务。传统金融服务需要中间方以盈利目的来提供服务，会以国籍、身份、地位、财富等条件来筛选客户。DeFi 可以做到“无审查性”、“无歧视”，让困地区人口可以同样享受到普惠性金融服务。 金融主权。你的私钥你的资产。DeFi 服务没有第三方违约风险。资产所有权真正属于自己。 低摩擦。无第三方可以降低手续费、佣金等中间成本。支持微型或小额交易。 互操作性。DeFi 不同应用间互相兼容，可以跨应用使用服务。DApp 的搭建就像乐高一样。稳定币、去中心化交易所、预测市场可以融合为新产品。 使用灵活。如果想使用某个服务，不想使用某个应用怎么办？没问题！可以自建 DApp 或选择其他同类 DApp。  DeFi 的应用前景 借贷作为传统金融的基石，自然也是 DeFi 的基础应用。开放式借贷协议是 DeFi 的最流行基础应用。这些服务建立在公链之上，降低信任需求，密码学方法验证保证安全。对手风险减少、成本降低。除此之外，相对传统信贷，开放去中心化的借贷服务还有有诸多优势。例如无信用审核、数字资产抵押、即时结算… 未来有可能标准化。</description>
-    </item>
-    
-    <item>
-      <title>加密研投 | Genesis Q2 市场报告</title>
-      <link>https://funkyswing.github.io/posts/2020-8-05_genesis-q2-report/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://funkyswing.github.io/posts/2020-8-05_genesis-q2-report/</guid>
-      <description>DCG 旗下机构投资者加密资产交易服务商 Genesis 推出 2020 年第二季度报告，对现货交易、借贷市场和衍生品交易市场总结。
-（本文所有单位均为美元）
-   借贷业务新增 22 亿 截至 6 月现有贷款总量 14.2 亿     现货交易 52.5 亿 6 月起衍生品交易量 4 亿    数字资产借贷 Q2 数字资产借贷业务新增 22 亿美元 ，同比增长 324%。现有未偿付贷款超过 10 亿，环比增长 118%。
-贷款组合 Q2 BTC 借贷占比超过 USD，BTC 和 USD 总占比达 83.2%。山寨币借贷市场份额仍旧非常小。
-数字资产交易 Genesis 全球机构对数字资产现货交易 Q2 达 52.5 亿，Q1 40 亿。今年五月推出衍生品交易。一个月期间十种交易品种五十个活跃对手盘交易金额 4 亿。80% 交易额集中在 BTC/USD 交易对。其它还有 DeFi 治理代币期权。
-期权市场万能 Genesis 衍生品市场主要提供期权和远期合约流动性。期权市场满足不同市场需求，解决不同问题。</description>
     </item>
     
   </channel>
